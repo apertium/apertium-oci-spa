@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metalrx>
+<lrx>
 
   <def-macros>
-	<def-macro name="noms_propres">
+	<def-macro n="noms_propres" npar="2">
 	  <rule weight="0.6">
-		 <match lemma="{{p1}}" tags="np.*"><select lemma="{{p1}}"/></match>
+		 <match plemma="1" tags="np.*"><select plemma="1"/></match>
 	  </rule>
 	  <rule weight="1.0">
-		 <match lemma="{{p1}}" tags="np.*"><select lemma="{{p2}}"/></match>
+		 <match plemma="1" tags="np.*"><select plemma="2"/></match>
 		 <match lemma="de" tags="pr"/>
 		 <or><match tags="np.loc"/><match tags="np.top.*"/></or>
 	  </rule>
 	  <rule weight="1.0">
-		 <match lemma="{{p1}}" tags="np.*"><select lemma="{{p2}}"/></match>
+		 <match plemma="1" tags="np.*"><select plemma="2"/></match>
 		 <match tags="det.*"/>
 		 <match tags="adj.*"/>
 	  </rule>
 	  <rule weight="1.0">
-		 <match lemma="{{p1}}" tags="np.*"><select lemma="{{p2}}"/></match>
+		 <match plemma="1" tags="np.*"><select plemma="2"/></match>
 		 <or>
 		   <match tags="num.*"/>
 		   <match lemma="I" tags="adj.*"/>
@@ -78,7 +78,7 @@
 		   <match lemma="marquis" tags="n.*"/>
 		   <match lemma="baron" tags="n.*"/>
 		 </or>
-		 <match lemma="{{p1}}" tags="np.*"><select lemma="{{p2}}"/></match>
+		 <match plemma="1" tags="np.*"><select plemma="2"/></match>
 	  </rule>
 	  <rule weight="1.0">
 		 <or>
@@ -90,10 +90,10 @@
 		   <match lemma="vice-royauté" tags="n.*"/>
 		 </or>
 		 <match lemma="de" tags="pr"/>
-		 <match lemma="{{p1}}" tags="np.*"><select lemma="{{p2}}"/></match>
+		 <match plemma="1" tags="np.*"><select plemma="2"/></match>
 	  </rule>
 	  <rule weight="1.0">
-		 <match lemma="{{p1}}" tags="np.*"><select lemma="{{p2}}"/></match>
+		 <match plemma="1" tags="np.*"><select plemma="2"/></match>
 		 <or>
 		   <match lemma="régner" tags="vblex.*"/>
 		   <match lemma="gouverner" tags="vblex.*"/>
@@ -102,25 +102,25 @@
 	</def-macro>
 
 	<!-- p1 verb fra, p2 verb cat estandard, p3 prep fra, p3 verb cat alternatiufra -->
- 	<!-- <macro name="verb_prep" p1="chasser" p2="caçar" p3="de" p4="expulsar" /> -->
-	<def-macro name="verb_prep">
+ 	<!-- <macro n="verb_prep"><with-param v="chasser"/><with-param v="caçar"/><with-param v="de"/><with-param v="expulsar"/></macro> -->
+	<def-macro n="verb_prep">
 	  <rule weight="0.6">
-		 <match lemma="{{p1}}" tags="vblex.*"><select lemma="{{p2}}"/></match>
+		 <match plemma="1" tags="vblex.*"><select plemma="2"/></match>
 	  </rule>
 	  <rule weight="1.0">
-		 <match lemma="{{p1}}" tags="vblex.*"><select lemma="{{p4}}"/></match>
-		 <match lemma="{{p3}}" tags="pr"/>
+		 <match plemma="1" tags="vblex.*"><select plemma="4"/></match>
+		 <match plemma="3" tags="pr"/>
 	  </rule>
 	  <rule weight="1.0">
-		 <match lemma="{{p1}}" tags="vblex.*"><select lemma="{{p4}}"/></match>
+		 <match plemma="1" tags="vblex.*"><select plemma="4"/></match>
 		 <match tags="adv"/>
-		 <match lemma="{{p3}}" tags="pr"/>
+		 <match plemma="3" tags="pr"/>
 	  </rule>
 	  <rule weight="1.0">
-		 <match lemma="{{p1}}" tags="vblex.*"><select lemma="{{p4}}"/></match>
+		 <match plemma="1" tags="vblex.*"><select plemma="4"/></match>
 		 <match tags="adv"/>
 		 <match tags="adv"/>
-		 <match lemma="{{p3}}" tags="pr"/>
+		 <match plemma="3" tags="pr"/>
 		  </rule>
 	</def-macro>
   </def-macros>
@@ -151,10 +151,10 @@
 
 <!-- **************** NP **************** -->
 
-  <macro name="noms_propres" p1="Louis" p2="Loís" />
+  <macro n="noms_propres"><with-param v="Louis"/><with-param v="Loís"/></macro>
 
 </rules>
-</metalrx>
+</lrx>
 
 <!-- 
 Resources: 
