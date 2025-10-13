@@ -101797,7 +101797,7 @@
     -->
     <e alt="oc@aran">
       <p>
-        <l>auer<s n="vbhaver"/></l> 
+        <l>aver<s n="vbhaver"/></l> 
         <r>haber<s n="vbhaver"/></r> 
       </p>
     </e>
@@ -101830,7 +101830,7 @@
 
     <e alt="oc@aran">
       <p>
-        <l>èster<s n="vbser"/></l> 
+        <l>èsser<s n="vbser"/></l> 
         <r>ser<s n="vbser"/></r> 
       </p>
     </e>
@@ -101842,21 +101842,21 @@
     -->
     <e r="RL" alt="oc@aran">
       <p>
-        <l>auer<g><b/>de</g><s n="vbmod"/></l> 
+        <l>aver<g><b/>de</g><s n="vbmod"/></l> 
         <r>deber<s n="vbmod"/></r> 
       </p>
     </e>
 
     <e r="RL" alt="oc@aran">
       <p>
-        <l>auer<g><b/>de</g><s n="vbmod"/></l> 
+        <l>aver<g><b/>de</g><s n="vbmod"/></l> 
         <r>haber<g><b/>de</g><s n="vbmod"/></r> 
       </p>
     </e>
 
     <e alt="oc@aran">
       <p>
-        <l>auer<g><b/>de</g><s n="vbmod"/></l> 
+        <l>aver<g><b/>de</g><s n="vbmod"/></l> 
         <r>tener<g><b/>que</g><s n="vbmod"/></r> 
       </p>
     </e>
@@ -101884,28 +101884,28 @@
 
     <e r="LR">
       <p>
-        <l>caler<s n="vbmod"/></l> 
+        <l>càler<s n="vbmod"/></l> 
         <r>ser<b/>necesario<s n="vbmod"/></r> 
       </p>
     </e>
 
     <e r="RL">
       <p>
-        <l>caler<s n="vbmod"/></l> 
+        <l>càler<s n="vbmod"/></l> 
         <r>haber<b/>que<s n="vbmod"/></r> 
       </p>
     </e>
 
     <e r="RL">
       <p>
-        <l>caler<s n="vbmod"/></l> 
+        <l>càler<s n="vbmod"/></l> 
         <r>ser<b/>preciso<s n="vbmod"/></r> 
       </p>
     </e>
     
     <e r="RL">
       <p>
-        <l>caler<s n="vbmod"/></l> 
+        <l>càler<s n="vbmod"/></l> 
         <r>hacer<b/>falta<s n="vbmod"/></r> 
       </p>
     </e>
@@ -101926,14 +101926,14 @@
 
     <e r="RL" alt="oc@aran">
       <p>
-        <l>déuer<s n="vbmod"/></l> 
+        <l>déver<s n="vbmod"/></l> 
         <r>deber<g><b/>de</g><s n="vbmod"/></r> 
       </p>
     </e>
 
     <e alt="oc@aran">
       <p>
-        <l>déuer<s n="vbmod"/></l> 
+        <l>déver<s n="vbmod"/></l> 
         <r>deber<g><b/>de</g><s n="vbmod"/></r> 
       </p>
     </e>
@@ -102007,7 +102007,7 @@
 
     <e alt="oc">
       <p>
-        <l>abatre<s n="vblex"/></l> 
+        <l>abàter<s n="vblex"/></l> 
         <r>abatir<s n="vblex"/></r> 
       </p>
     </e>
@@ -102140,14 +102140,14 @@
 
     <e alt="oc@aran">
       <p>
-        <l>abstier<s n="vblex"/></l> 
+        <l>abstiéner<s n="vblex"/></l> 
         <r>abstener<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc">
       <p>
-        <l>absténer<s n="vblex"/></l> 
+        <l>abstiéner<s n="vblex"/></l> 
         <r>abstener<s n="vblex"/></r> 
       </p>
     </e>
@@ -102370,7 +102370,7 @@
 
     <e r="LR">
       <p>
-        <l>acréisher<s n="vblex"/></l> 
+        <l>acréisser<s n="vblex"/></l> 
         <r>aumentar<s n="vblex"/></r> 
       </p>
     </e>
@@ -102482,7 +102482,7 @@
 
     <e alt="oc">
       <p>
-        <l>admetre<s n="vblex"/></l> 
+        <l>adméter<s n="vblex"/></l> 
         <r>admitir<s n="vblex"/></r> 
       </p>
     </e>
@@ -102552,14 +102552,14 @@
 
     <e alt="oc">
       <p>
-        <l>adscriure<s n="vblex"/></l> 
+        <l>adscríver<s n="vblex"/></l> 
         <r>adscribir<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc@aran">
       <p>
-        <l>adscríuer<s n="vblex"/></l> 
+        <l>adscríver<s n="vblex"/></l> 
         <r>adscribir<s n="vblex"/></r> 
       </p>
     </e>
@@ -103238,14 +103238,14 @@
 
     <e alt="oc@aran">
       <p>
-        <l>apartier<s n="vblex"/></l> 
+        <l>apartiéner<s n="vblex"/></l> 
         <r>pertenecer<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc@aran">
       <p>
-        <l>aparéisher<s n="vblex"/></l> 
+        <l>aparéisser<s n="vblex"/></l> 
         <r>aparecer<s n="vblex"/></r> 
       </p>
     </e>
@@ -103287,14 +103287,14 @@
 
     <e r="LR">
       <p>
-        <l>apertier<s n="vblex"/></l> 
+        <l>apertiéner<s n="vblex"/></l> 
         <r>pertenecer<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc">
       <p>
-        <l>aperténer<s n="vblex"/></l> 
+        <l>apertiéner<s n="vblex"/></l> 
         <r>pertenecer<s n="vblex"/></r> 
       </p>
     </e>
@@ -103378,7 +103378,7 @@
 
     <e alt="oc">
       <p>
-        <l>apondre<s n="vblex"/></l> 
+        <l>apónder<s n="vblex"/></l> 
         <r>añadir<s n="vblex"/></r> 
       </p>
     </e>
@@ -103623,7 +103623,7 @@
 
     <e alt="oc@aran">
       <p>
-        <l>arreconéisher<s n="vblex"/></l> 
+        <l>arreconéisser<s n="vblex"/></l> 
         <r>reconocer<s n="vblex"/></r> 
       </p>
     </e>
@@ -103964,14 +103964,14 @@
 
     <e>
       <p>
-        <l>atier<s n="vblex"/></l> 
+        <l>atiéner<s n="vblex"/></l> 
         <r>atender<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc">
       <p>
-        <l>atraire<s n="vblex"/></l> 
+        <l>atràser<s n="vblex"/></l> 
         <r>atraer<s n="vblex"/></r> 
       </p>
     </e>
@@ -104020,7 +104020,7 @@
 
     <e alt="oc@aran">
       <p>
-        <l>atrèir<s n="vblex"/></l> 
+        <l>atràser<s n="vblex"/></l> 
         <r>atraer<s n="vblex"/></r> 
       </p>
     </e>
@@ -104069,14 +104069,14 @@
 
     <e r="RL">
       <p>
-        <l>aucir<s n="vblex"/></l> 
+        <l>aucíser<s n="vblex"/></l> 
         <r>victimar<s n="vblex"/></r> 
       </p>
     </e>
 
     <e>
       <p>
-        <l>aucir<s n="vblex"/></l> 
+        <l>aucíser<s n="vblex"/></l> 
         <r>matar<s n="vblex"/></r> 
       </p>
     </e>
@@ -104097,14 +104097,14 @@
 
     <e alt="oc@aran">
       <p>
-        <l>auer<s n="vblex"/></l> 
+        <l>aver<s n="vblex"/></l> 
         <r>tener<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc@aran">
       <p>
-        <l>auer<g><b/>de<b/>besonh</g><s n="vblex"/></l> 
+        <l>aver<g><b/>de<b/>besonh</g><s n="vblex"/></l> 
         <r>necesitar<s n="vblex"/></r> 
       </p>
     </e>
@@ -104533,7 +104533,7 @@
 
     <e alt="oc">
       <p>
-        <l>batre<s n="vblex"/></l> 
+        <l>bàter<s n="vblex"/></l> 
         <r>batir<s n="vblex"/></r> 
       </p>
     </e>
@@ -104736,7 +104736,7 @@
 
     <e>
       <p>
-        <l>béuer<s n="vblex"/></l> 
+        <l>béver<s n="vblex"/></l> 
         <r>beber<s n="vblex"/></r> 
       </p>
     </e>
@@ -104897,7 +104897,7 @@
 
     <e r="LR">
       <p>
-        <l>captrèir<s n="vblex"/></l> 
+        <l>captràser<s n="vblex"/></l> 
         <r>sustituir<s n="vblex"/></r> 
       </p>
     </e>
@@ -105254,7 +105254,7 @@
 
     <e alt="oc">
       <p>
-        <l>combatre<s n="vblex"/></l> 
+        <l>combàter<s n="vblex"/></l> 
         <r>combatir<s n="vblex"/></r> 
       </p>
     </e>
@@ -105310,7 +105310,7 @@
 
     <e alt="oc">
       <p>
-        <l>cometre<s n="vblex"/></l> 
+        <l>cométer<s n="vblex"/></l> 
         <r>cometer<s n="vblex"/></r> 
       </p>
     </e>
@@ -105345,7 +105345,7 @@
 
     <e alt="oc@aran">
       <p>
-        <l>comparéisher<s n="vblex"/></l> 
+        <l>comparéisser<s n="vblex"/></l> 
         <r>comparecer<s n="vblex"/></r> 
       </p>
     </e>
@@ -105464,7 +105464,7 @@
 
     <e alt="oc">
       <p>
-        <l>comprometre<s n="vblex"/></l> 
+        <l>comprométer<s n="vblex"/></l> 
         <r>comprometer<s n="vblex"/></r> 
       </p>
     </e>
@@ -105548,7 +105548,7 @@
 
     <e alt="oc">
       <p>
-        <l>concebre<s n="vblex"/></l> 
+        <l>concéber<s n="vblex"/></l> 
         <r>concebir<s n="vblex"/></r> 
       </p>
     </e>
@@ -105590,7 +105590,7 @@
 
     <e alt="oc">
       <p>
-        <l>conclure<s n="vblex"/></l> 
+        <l>conclúser<s n="vblex"/></l> 
         <r>concluir<s n="vblex"/></r> 
       </p>
     </e>
@@ -105968,7 +105968,7 @@
 
     <e alt="oc@aran">
       <p>
-        <l>contier<s n="vblex"/></l> 
+        <l>contiéner<s n="vblex"/></l> 
         <r>contener<s n="vblex"/></r> 
       </p>
     </e>
@@ -106017,15 +106017,15 @@
     
     <e>
       <p>
-        <l>avier<s n="vblex"/></l> 
-        <r>avenir<s n="vblex"/></r> 
+        <l>aviéner<s n="vblex"/></l> 
+        <r>aviéner<s n="vblex"/></r> 
       </p>
     </e>
 
     <e>
       <p>
-        <l>contravier<s n="vblex"/></l> 
-        <r>contravenir<s n="vblex"/></r> 
+        <l>contraviéner<s n="vblex"/></l> 
+        <r>contraviéner<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -106073,7 +106073,7 @@
 
     <e alt="oc">
       <p>
-        <l>conténer<s n="vblex"/></l> 
+        <l>contiéner<s n="vblex"/></l> 
         <r>contener<s n="vblex"/></r> 
       </p>
     </e>
@@ -106108,14 +106108,14 @@
 
     <e>
       <p>
-        <l>convier<s n="vblex"/></l> 
-        <r>convenir<s n="vblex"/></r> 
+        <l>conviéner<s n="vblex"/></l> 
+        <r>conviéner<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc">
       <p>
-        <l>conviure<s n="vblex"/></l> 
+        <l>convíver<s n="vblex"/></l> 
         <r>convivir<s n="vblex"/></r> 
       </p>
     </e>
@@ -106136,7 +106136,7 @@
 
     <e alt="oc@aran">
       <p>
-        <l>convíuer<s n="vblex"/></l> 
+        <l>convíver<s n="vblex"/></l> 
         <r>convivir<s n="vblex"/></r> 
       </p>
     </e>
@@ -106150,7 +106150,7 @@
 
     <e alt="oc@aran">
       <p>
-        <l>conéisher<s n="vblex"/></l> 
+        <l>conéisser<s n="vblex"/></l> 
         <r>conocer<s n="vblex"/></r> 
       </p>
     </e>
@@ -106206,7 +106206,7 @@
 
     <e alt="oc">
       <p>
-        <l>correspondre<s n="vblex"/></l> 
+        <l>correspónder<s n="vblex"/></l> 
         <r>corresponder<s n="vblex"/></r> 
       </p>
     </e>
@@ -106304,7 +106304,7 @@
 
     <e alt="oc">
       <p>
-        <l>creire<s n="vblex"/></l> 
+        <l>créser<s n="vblex"/></l> 
         <r>creer<s n="vblex"/></r> 
       </p>
     </e>
@@ -106444,7 +106444,7 @@
 
     <e>
       <p>
-        <l>créisher<s n="vblex"/></l> 
+        <l>créisser<s n="vblex"/></l> 
         <r>crecer<s n="vblex"/></r> 
       </p>
     </e>
@@ -106514,7 +106514,7 @@
 
     <e>
       <p>
-        <l>càber<s n="vblex"/></l> 
+        <l>caber<s n="vblex"/></l> 
         <r>caber<s n="vblex"/></r> 
       </p>
     </e>
@@ -106640,7 +106640,7 @@
 
     <e alt="oc">
       <p>
-        <l>debatre<s n="vblex"/></l> 
+        <l>debàter<s n="vblex"/></l> 
         <r>debatir<s n="vblex"/></r> 
       </p>
     </e>
@@ -106668,7 +106668,7 @@
 
     <e alt="oc">
       <p>
-        <l>decebre<s n="vblex"/></l> 
+        <l>decéber<s n="vblex"/></l> 
         <r>decepcionar<s n="vblex"/></r> 
       </p>
     </e>
@@ -106724,7 +106724,7 @@
 
     <e alt="oc">
       <p>
-        <l>defendre<s n="vblex"/></l> 
+        <l>defénder<s n="vblex"/></l> 
         <r>defender<s n="vblex"/></r> 
       </p>
     </e>
@@ -106766,7 +106766,7 @@
 
     <e alt="oc@aran">
       <p>
-        <l>deféner<s n="vblex"/></l> 
+        <l>defénder<s n="vblex"/></l> 
         <r>defender<s n="vblex"/></r> 
       </p>
     </e>
@@ -106913,14 +106913,14 @@
 
     <e alt="oc">
       <p>
-        <l>dependre<s n="vblex"/></l> 
+        <l>depénder<s n="vblex"/></l> 
         <r>depender<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc@aran">
       <p>
-        <l>depéner<s n="vblex"/></l> 
+        <l>depénder<s n="vblex"/></l> 
         <r>depender<s n="vblex"/></r> 
       </p>
     </e>
@@ -106990,7 +106990,7 @@
 
     <e alt="oc@aran">
       <p>
-        <l>desaparéisher<s n="vblex"/></l> 
+        <l>desaparéisser<s n="vblex"/></l> 
         <r>desaparecer<s n="vblex"/></r> 
       </p>
     </e>
@@ -107137,7 +107137,7 @@
 
     <e alt="oc@aran">
       <p>
-        <l>desconéisher<s n="vblex"/></l> 
+        <l>desconéisser<s n="vblex"/></l> 
         <r>desconocer<s n="vblex"/></r> 
       </p>
     </e>
@@ -107186,7 +107186,7 @@
 
     <e alt="oc">
       <p>
-        <l>descriure<s n="vblex"/></l> 
+        <l>descríver<s n="vblex"/></l> 
         <r>describir<s n="vblex"/></r> 
       </p>
     </e>
@@ -107200,7 +107200,7 @@
 
     <e alt="oc@aran">
       <p>
-        <l>descríuer<s n="vblex"/></l> 
+        <l>descríver<s n="vblex"/></l> 
         <r>describir<s n="vblex"/></r> 
       </p>
     </e>
@@ -107214,21 +107214,21 @@
 
     <e>
       <p>
-        <l>descéner<s n="vblex"/></l> 
+        <l>descénder<s n="vblex"/></l> 
         <r>descender<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc">
       <p>
-        <l>desdire<s n="vblex"/></l> 
+        <l>desdíser<s n="vblex"/></l> 
         <r>desdecir<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc@aran">
       <p>
-        <l>desdíder<s n="vblex"/></l> 
+        <l>desdíser<s n="vblex"/></l> 
         <r>desdecir<s n="vblex"/></r> 
       </p>
     </e>
@@ -107767,14 +107767,14 @@
 
     <e alt="oc@aran">
       <p>
-        <l>detier<s n="vblex"/></l> 
+        <l>detiéner<s n="vblex"/></l> 
         <r>detener<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc">
       <p>
-        <l>deténer<s n="vblex"/></l> 
+        <l>detiéner<s n="vblex"/></l> 
         <r>detener<s n="vblex"/></r> 
       </p>
     </e>
@@ -107795,14 +107795,14 @@
 
     <e r="RL" alt="oc@aran">
       <p>
-        <l>devier<s n="vblex"/></l> 
-        <r>devenir<s n="vblex"/></r> 
+        <l>deviéner<r<s n="vblex"/></l> 
+        <r>deviéner<s n="vblex"/></r> 
       </p>
     </e>
 
     <e r="LR">
       <p>
-        <l>devier<s n="vblex"/></l> 
+        <l>deviéner<s n="vblex"/></l> 
         <r>acontecer<s n="vblex"/></r> 
       </p>
     </e>
@@ -107900,7 +107900,7 @@
 
     <e alt="oc">
       <p>
-        <l>dire<s n="vblex"/></l> 
+        <l>díser<s n="vblex"/></l> 
         <r>decir<s n="vblex"/></r> 
       </p>
     </e>
@@ -107984,7 +107984,7 @@
 
     <e alt="oc">
       <p>
-        <l>distraire<s n="vblex"/></l> 
+        <l>distràser<s n="vblex"/></l> 
         <r>distraer<s n="vblex"/></r> 
       </p>
     </e>
@@ -108012,7 +108012,7 @@
 
     <e alt="oc@aran">
       <p>
-        <l>distrèir<s n="vblex"/></l> 
+        <l>distràser<s n="vblex"/></l> 
         <r>distraer<s n="vblex"/></r> 
       </p>
     </e>
@@ -108166,7 +108166,7 @@
 
     <e alt="oc@aran">
       <p>
-        <l>díder<s n="vblex"/></l> 
+        <l>díser<s n="vblex"/></l> 
         <r>decir<s n="vblex"/></r> 
       </p>
     </e>
@@ -108299,7 +108299,7 @@
 
     <e alt="oc">
       <p>
-        <l>emetre<s n="vblex"/></l> 
+        <l>eméter<s n="vblex"/></l> 
         <r>emitir<s n="vblex"/></r> 
       </p>
     </e>
@@ -109019,7 +109019,7 @@
 
     <e alt="oc">
       <p>
-        <l>entendre<s n="vblex"/></l> 
+        <l>enténder<s n="vblex"/></l> 
         <r>entender<s n="vblex"/></r> 
       </p>
     </e>
@@ -109096,21 +109096,21 @@
 
     <e r="LR">
       <p>
-        <l>entretier<s n="vblex"/></l> 
+        <l>entretiéner<s n="vblex"/></l> 
         <r>entretener<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc@aran">
       <p>
-        <l>entreveir<s n="vblex"/></l> 
+        <l>entrevéser<s n="vblex"/></l> 
         <r>entrever<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc">
       <p>
-        <l>entreveire<s n="vblex"/></l> 
+        <l>entrevéser<s n="vblex"/></l> 
         <r>entrever<s n="vblex"/></r> 
       </p>
     </e>
@@ -109145,7 +109145,7 @@
 
     <e r="LR">
       <p>
-        <l>enténer<s n="vblex"/></l> 
+        <l>enténder<s n="vblex"/></l> 
         <r>oír<s n="vblex"/></r> 
       </p>
     </e>
@@ -109215,8 +109215,8 @@
 
     <e>
       <p>
-        <l>equivaler<s n="vblex"/></l> 
-        <r>equivaler<s n="vblex"/></r> 
+        <l>equivàler<s n="vblex"/></l> 
+        <r>equivàler<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -109439,14 +109439,14 @@
 
     <e alt="oc">
       <p>
-        <l>escriure<s n="vblex"/></l> 
+        <l>escríver<s n="vblex"/></l> 
         <r>escribir<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc@aran">
       <p>
-        <l>escríuer<s n="vblex"/></l> 
+        <l>escríver<s n="vblex"/></l> 
         <r>escribir<s n="vblex"/></r> 
       </p>
     </e>
@@ -109817,7 +109817,7 @@
     
     <e r="RL" alt="oc@aran">
       <p>
-        <l>èster<s n="vbser"/></l> 
+        <l>èsser<s n="vbser"/></l> 
         <r>estar<s n="vblex"/></r> 
       </p>
     </e>
@@ -110011,14 +110011,14 @@
 
     <e alt="oc@aran">
       <p>
-        <l>esténer<s n="vblex"/></l> 
+        <l>esténder<s n="vblex"/></l> 
         <r>extender<s n="vblex"/></r> 
       </p>
     </e>
     
     <e alt="oc">
       <p>
-        <l>estendre<s n="vblex"/></l> 
+        <l>esténder<s n="vblex"/></l> 
         <r>extender<s n="vblex"/></r> 
       </p>
     </e>
@@ -110137,7 +110137,7 @@
 
     <e alt="oc">
       <p>
-        <l>exclure<s n="vblex"/></l> 
+        <l>exclúser<s n="vblex"/></l> 
         <r>excluir<s n="vblex"/></r> 
       </p>
     </e>
@@ -110319,14 +110319,14 @@
 
     <e alt="oc">
       <p>
-        <l>extraire<s n="vblex"/></l> 
+        <l>extràser<s n="vblex"/></l> 
         <r>extraer<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc@aran">
       <p>
-        <l>extrèir<s n="vblex"/></l> 
+        <l>extràser<s n="vblex"/></l> 
         <r>extraer<s n="vblex"/></r> 
       </p>
     </e>
@@ -110620,7 +110620,7 @@
 
     <e alt="oc">
       <p>
-        <l>fondre<s n="vblex"/></l> 
+        <l>fónder<s n="vblex"/></l> 
         <r>fundir<s n="vblex"/></r> 
       </p>
     </e>
@@ -111425,7 +111425,7 @@
 
     <e alt="oc">
       <p>
-        <l>inclure<s n="vblex"/></l> 
+        <l>inclúser<s n="vblex"/></l> 
         <r>incluir<s n="vblex"/></r> 
       </p>
     </e>
@@ -111537,14 +111537,14 @@
 
     <e alt="oc">
       <p>
-        <l>inscriure<s n="vblex"/></l> 
+        <l>inscríver<s n="vblex"/></l> 
         <r>inscribir<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc@aran">
       <p>
-        <l>inscríuer<s n="vblex"/></l> 
+        <l>inscríver<s n="vblex"/></l> 
         <r>inscribir<s n="vblex"/></r> 
       </p>
     </e>
@@ -111698,7 +111698,7 @@
 
     <e alt="oc">
       <p>
-        <l>interrompre<s n="vblex"/></l> 
+        <l>interrómper<s n="vblex"/></l> 
         <r>interrumpir<s n="vblex"/></r> 
       </p>
     </e>
@@ -111712,15 +111712,15 @@
 
     <e r="RL">
       <p>
-        <l>intervier<s n="vblex"/></l> 
+        <l>interviéner<s n="vblex"/></l> 
         <r>mediar<s n="vblex"/></r> 
       </p>
     </e>
 
     <e>
       <p>
-        <l>intervier<s n="vblex"/></l> 
-        <r>intervenir<s n="vblex"/></r> 
+        <l>interviéner<s n="vblex"/></l> 
+        <r>interviéner<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -111803,7 +111803,7 @@
 
     <e alt="oc">
       <p>
-        <l>jaire<s n="vblex"/></l> 
+        <l>jàser<s n="vblex"/></l> 
         <r>yacer<s n="vblex"/></r> 
       </p>
     </e>
@@ -111859,7 +111859,7 @@
 
     <e alt="oc@aran">
       <p>
-        <l>jàder<s n="vblex"/></l> 
+        <l>jàser<s n="vblex"/></l> 
         <r>yacer<s n="vblex"/></r> 
       </p>
     </e>
@@ -111880,14 +111880,14 @@
 
     <e r="RL" alt="oc@aran">
       <p>
-        <l>júnher<s n="vblex"/></l> 
+        <l>jónher<s n="vblex"/></l> 
         <r>unir<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc@aran">
       <p>
-        <l>júnher<s n="vblex"/></l> 
+        <l>jónher<s n="vblex"/></l> 
         <r>juntar<s n="vblex"/></r> 
       </p>
     </e>
@@ -112209,14 +112209,14 @@
 
     <e r="LR">
       <p>
-        <l>lúder<s n="vblex"/></l> 
+        <l>lúser<s n="vblex"/></l> 
         <r>brillar<s n="vblex"/></r> 
       </p>
     </e>
 
     <e r="RL">
       <p>
-        <l>lúder<s n="vblex"/></l> 
+        <l>lúser<s n="vblex"/></l> 
         <r>lucir<s n="vblex"/></r> 
       </p>
     </e>
@@ -112300,14 +112300,14 @@
 
     <e alt="oc@aran">
       <p>
-        <l>mantier<s n="vblex"/></l> 
+        <l>mantiéner<s n="vblex"/></l> 
         <r>mantener<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc">
       <p>
-        <l>manténer<s n="vblex"/></l> 
+        <l>mantiéner<s n="vblex"/></l> 
         <r>mantener<s n="vblex"/></r> 
       </p>
     </e>
@@ -112377,14 +112377,14 @@
 
     <e alt="oc">
       <p>
-        <l>maudire<s n="vblex"/></l> 
+        <l>maudíser<s n="vblex"/></l> 
         <r>maldecir<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc@aran">
       <p>
-        <l>maudíder<s n="vblex"/></l> 
+        <l>maudíser<s n="vblex"/></l> 
         <r>maldecir<s n="vblex"/></r> 
       </p>
     </e>
@@ -112524,7 +112524,7 @@
 
     <e alt="oc">
       <p>
-        <l>metre<s n="vblex"/></l> 
+        <l>méter<s n="vblex"/></l> 
         <r>poner<s n="vblex"/></r> 
       </p>
     </e>
@@ -112707,14 +112707,14 @@
 
     <e alt="oc@aran">
       <p>
-        <l>mòir<s n="vblex"/></l> 
+        <l>mòver<s n="vblex"/></l> 
         <r>mover<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc">
       <p>
-        <l>mòure<s n="vblex"/></l> 
+        <l>mòver<s n="vblex"/></l> 
         <r>mover<s n="vblex"/></r> 
       </p>
     </e>
@@ -112959,7 +112959,7 @@
 
     <e alt="oc@aran">
       <p>
-        <l>nèisher<s n="vblex"/></l> 
+        <l>nàisser<s n="vblex"/></l> 
         <r>nacer<s n="vblex"/></r> 
       </p>
     </e>
@@ -113015,14 +113015,14 @@
 
     <e alt="oc@aran">
       <p>
-        <l>obtier<s n="vblex"/></l> 
+        <l>obtiéner<s n="vblex"/></l> 
         <r>obtener<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc">
       <p>
-        <l>obténer<s n="vblex"/></l> 
+        <l>obtiéner<s n="vblex"/></l> 
         <r>obtener<s n="vblex"/></r> 
       </p>
     </e>
@@ -113477,7 +113477,7 @@
 
     <e alt="oc">
       <p>
-        <l>percebre<s n="vblex"/></l> 
+        <l>percéber<s n="vblex"/></l> 
         <r>percibir<s n="vblex"/></r> 
       </p>
     </e>
@@ -113548,14 +113548,14 @@
 
     <e alt="oc">
       <p>
-        <l>permetre<s n="vblex"/></l> 
+        <l>perméter<s n="vblex"/></l> 
         <r>permitir<s n="vblex"/></r> 
       </p>
     </e>
 
     <e r="LR">
       <p>
-        <l>permetre<s n="vblex"/></l> 
+        <l>perméter<s n="vblex"/></l> 
         <r>permitir<s n="vblex"/></r> 
       </p>
     </e>
@@ -114122,14 +114122,14 @@
 
     <e alt="oc">
       <p>
-        <l>prescriure<s n="vblex"/></l> 
+        <l>prescríver<s n="vblex"/></l> 
         <r>prescribir<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc@aran">
       <p>
-        <l>prescríuer<s n="vblex"/></l> 
+        <l>prescríver<s n="vblex"/></l> 
         <r>prescribir<s n="vblex"/></r> 
       </p>
     </e>
@@ -114185,29 +114185,29 @@
 
     <e>
       <p>
-        <l>preténer<s n="vblex"/></l> 
+        <l>preténder<s n="vblex"/></l> 
         <r>pretender<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc@aran">
       <p>
-        <l>preveir<s n="vblex"/></l> 
+        <l>prevéser<s n="vblex"/></l> 
         <r>prever<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc">
       <p>
-        <l>preveire<s n="vblex"/></l> 
+        <l>prevéser<s n="vblex"/></l> 
         <r>prever<s n="vblex"/></r> 
       </p>
     </e>
 
     <e>
       <p>
-        <l>previer<s n="vblex"/></l> 
-        <r>prevenir<s n="vblex"/></r> 
+        <l>previéner<r<s n="vblex"/></l> 
+        <r>previéner<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -114318,7 +114318,7 @@
 
     <e alt="oc">
       <p>
-        <l>prometre<s n="vblex"/></l> 
+        <l>prométer<s n="vblex"/></l> 
         <r>prometer<s n="vblex"/></r> 
       </p>
     </e>
@@ -114339,28 +114339,28 @@
 
     <e r="RL" alt="oc@aran">
       <p>
-        <l>promòir<s n="vblex"/></l> 
+        <l>promòver<s n="vblex"/></l> 
         <r>promocionar<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc@aran">
       <p>
-        <l>promòir<s n="vblex"/></l> 
+        <l>promòver<s n="vblex"/></l> 
         <r>promover<s n="vblex"/></r> 
       </p>
     </e>
 
     <e r="RL" alt="oc">
       <p>
-        <l>promòure<s n="vblex"/></l> 
+        <l>promòver<s n="vblex"/></l> 
         <r>promocionar<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc">
       <p>
-        <l>promòure<s n="vblex"/></l> 
+        <l>promòver<s n="vblex"/></l> 
         <r>promover<s n="vblex"/></r> 
       </p>
     </e>
@@ -114473,8 +114473,8 @@
 
     <e>
       <p>
-        <l>provier<s n="vblex"/></l> 
-        <r>provenir<s n="vblex"/></r> 
+        <l>proviéner<s n="vblex"/></l> 
+        <r>proviéner<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -114571,7 +114571,7 @@
 
     <e alt="oc">
       <p>
-        <l>pèrdre<s n="vblex"/></l> 
+        <l>pèrder<s n="vblex"/></l> 
         <r>perder<s n="vblex"/></r> 
       </p>
     </e>
@@ -114732,7 +114732,7 @@
 
     <e alt="oc@aran">
       <p>
-        <l>reaparéisher<s n="vblex"/></l> 
+        <l>reaparéisser<s n="vblex"/></l> 
         <r>reaparecer<s n="vblex"/></r> 
       </p>
     </e>
@@ -114781,7 +114781,7 @@
 
     <e alt="oc">
       <p>
-        <l>rebatre<s n="vblex"/></l> 
+        <l>rebàter<s n="vblex"/></l> 
         <r>reflejar<s n="vblex"/></r> 
       </p>
     </e>
@@ -114844,7 +114844,7 @@
 
     <e alt="oc">
       <p>
-        <l>recebre<s n="vblex"/></l> 
+        <l>recéber<s n="vblex"/></l> 
         <r>recibir<s n="vblex"/></r> 
       </p>
     </e>
@@ -114935,7 +114935,7 @@
 
     <e r="LR">
       <p>
-        <l>reconéisher<s n="vblex"/></l> 
+        <l>reconéisser<s n="vblex"/></l> 
         <r>reconocer<s n="vblex"/></r> 
       </p>
     </e>
@@ -115179,7 +115179,7 @@
 
     <e alt="oc">
       <p>
-        <l>refondre<s n="vblex"/></l> 
+        <l>refónder<s n="vblex"/></l> 
         <r>refundir<s n="vblex"/></r> 
       </p>
     </e>
@@ -115340,7 +115340,7 @@
 
     <e r="LR">
       <p>
-        <l>rejúnher<s n="vblex"/></l> 
+        <l>rejónher<s n="vblex"/></l> 
         <r>juntar<s n="vblex"/></r> 
       </p>
     </e>
@@ -115382,7 +115382,7 @@
 
     <e r="LR">
       <p>
-        <l>relúder<s n="vblex"/></l> 
+        <l>relúser<s n="vblex"/></l> 
         <r>lucir<s n="vblex"/></r> 
       </p>
     </e>
@@ -115445,7 +115445,7 @@
 
     <e alt="oc">
       <p>
-        <l>remetre<s n="vblex"/></l> 
+        <l>reméter<s n="vblex"/></l> 
         <r>remitir<s n="vblex"/></r> 
       </p>
     </e>
@@ -115494,7 +115494,7 @@
 
     <e r="LR">
       <p>
-        <l>rendre<g><b/>compte</g><s n="vblex"/></l> 
+        <l>rénder<g><b/>compte</g><s n="vblex"/></l> 
         <r>dar<g><b/>cuenta</g><s n="vblex"/></r> 
       </p>
     </e>
@@ -115718,14 +115718,14 @@
 
     <e alt="oc">
       <p>
-        <l>rescriure<s n="vblex"/></l> 
+        <l>rescríver<s n="vblex"/></l> 
         <r>reescribir<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc@aran">
       <p>
-        <l>rescríuer<s n="vblex"/></l> 
+        <l>rescríver<s n="vblex"/></l> 
         <r>reescribir<s n="vblex"/></r> 
       </p>
     </e>
@@ -115774,14 +115774,14 @@
 
     <e r="RL" alt="oc">
       <p>
-        <l>respondre<s n="vblex"/></l> 
+        <l>respónder<s n="vblex"/></l> 
         <r>contestar<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc">
       <p>
-        <l>respondre<s n="vblex"/></l> 
+        <l>respónder<s n="vblex"/></l> 
         <r>responder<s n="vblex"/></r> 
       </p>
     </e>
@@ -115963,14 +115963,14 @@
 
     <e r="RL" alt="oc">
       <p>
-        <l>retraire<s n="vblex"/></l> 
+        <l>retràser<s n="vblex"/></l> 
         <r>retraer<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc">
       <p>
-        <l>retraire<s n="vblex"/></l> 
+        <l>retràser<s n="vblex"/></l> 
         <r>reprochar<s n="vblex"/></r> 
       </p>
     </e>
@@ -116005,21 +116005,21 @@
 
     <e r="RL" alt="oc@aran">
       <p>
-        <l>retrèir<s n="vblex"/></l> 
+        <l>retràser<s n="vblex"/></l> 
         <r>retraer<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc@aran">
       <p>
-        <l>retrèir<s n="vblex"/></l> 
+        <l>retràser<s n="vblex"/></l> 
         <r>reprochar<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc">
       <p>
-        <l>reténer<s n="vblex"/></l> 
+        <l>retiéner<s n="vblex"/></l> 
         <r>retener<s n="vblex"/></r> 
       </p>
     </e>
@@ -116061,7 +116061,7 @@
 
     <e alt="oc">
       <p>
-        <l>reviure<s n="vblex"/></l> 
+        <l>revíver<s n="vblex"/></l> 
         <r>revivir<s n="vblex"/></r> 
       </p>
     </e>
@@ -116082,7 +116082,7 @@
 
     <e alt="oc@aran">
       <p>
-        <l>revíuer<s n="vblex"/></l> 
+        <l>revíver<s n="vblex"/></l> 
         <r>revivir<s n="vblex"/></r> 
       </p>
     </e>
@@ -116117,7 +116117,7 @@
 
     <e alt="oc">
       <p>
-        <l>rire<s n="vblex"/></l> 
+        <l>ríser<s n="vblex"/></l> 
         <r>reír<s n="vblex"/></r> 
       </p>
     </e>
@@ -116663,14 +116663,14 @@
 
     <e r="RL" alt="oc">
       <p>
-        <l>sometre<s n="vblex"/></l> 
+        <l>sométer<s n="vblex"/></l> 
         <r>plantear<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc">
       <p>
-        <l>sometre<s n="vblex"/></l> 
+        <l>sométer<s n="vblex"/></l> 
         <r>someter<s n="vblex"/></r> 
       </p>
     </e>
@@ -116733,7 +116733,7 @@
 
     <e alt="oc">
       <p>
-        <l>sorire<s n="vblex"/></l> 
+        <l>soríser<s n="vblex"/></l> 
         <r>sonreír<s n="vblex"/></r> 
       </p>
     </e>
@@ -116761,28 +116761,28 @@
 
     <e r="RL" alt="oc">
       <p>
-        <l>soscriure<s n="vblex"/></l> 
+        <l>soscríver<s n="vblex"/></l> 
         <r>suscribir<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc">
       <p>
-        <l>soscriure<s n="vblex"/></l> 
+        <l>soscríver<s n="vblex"/></l> 
         <r>subscribir<s n="vblex"/></r> 
       </p>
     </e>
 
     <e r="RL" alt="oc@aran">
       <p>
-        <l>soscríuer<s n="vblex"/></l> 
+        <l>soscríver<s n="vblex"/></l> 
         <r>suscribir<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc@aran">
       <p>
-        <l>soscríuer<s n="vblex"/></l> 
+        <l>soscríver<s n="vblex"/></l> 
         <r>subscribir<s n="vblex"/></r> 
       </p>
     </e>
@@ -116817,42 +116817,42 @@
 
     <e r="RL" alt="oc@aran">
       <p>
-        <l>sostier<s n="vblex"/></l> 
+        <l>sostiéner<s n="vblex"/></l> 
         <r>aguantar<s n="vblex"/></r> 
       </p>
     </e>
 
     <e r="RL" alt="oc@aran">
       <p>
-        <l>sostier<s n="vblex"/></l> 
+        <l>sostiéner<s n="vblex"/></l> 
         <r>sustentar<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc@aran">
       <p>
-        <l>sostier<s n="vblex"/></l> 
+        <l>sostiéner<s n="vblex"/></l> 
         <r>sostener<s n="vblex"/></r> 
       </p>
     </e>
 
     <e r="RL" alt="oc">
       <p>
-        <l>sosténer<s n="vblex"/></l> 
+        <l>sostiéner<s n="vblex"/></l> 
         <r>aguantar<s n="vblex"/></r> 
       </p>
     </e>
 
     <e r="RL" alt="oc">
       <p>
-        <l>sosténer<s n="vblex"/></l> 
+        <l>sostiéner<s n="vblex"/></l> 
         <r>sustentar<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc">
       <p>
-        <l>sosténer<s n="vblex"/></l> 
+        <l>sostiéner<s n="vblex"/></l> 
         <r>sostener<s n="vblex"/></r> 
       </p>
     </e>
@@ -116894,7 +116894,7 @@
 
     <e>
       <p>
-        <l>subervier<s n="vblex"/></l> 
+        <l>suberviéner<s n="vblex"/></l> 
         <r>incidir<s n="vblex"/></r> 
       </p>
     </e>
@@ -116908,7 +116908,7 @@
 
     <e alt="oc@aran">
       <p>
-        <l>subervíuer<s n="vblex"/></l> 
+        <l>subervíver<s n="vblex"/></l> 
         <r>sobrevivir<s n="vblex"/></r> 
       </p>
     </e>
@@ -116929,14 +116929,14 @@
 
     <e alt="oc">
       <p>
-        <l>subreviure<s n="vblex"/></l> 
+        <l>subrevíver<s n="vblex"/></l> 
         <r>sobrevivir<s n="vblex"/></r> 
       </p>
     </e>
 
     <e r="LR">
       <p>
-        <l>subreviure<s n="vblex"/></l> 
+        <l>subrevíver<s n="vblex"/></l> 
         <r>sobrevivir<s n="vblex"/></r> 
       </p>
     </e>
@@ -117139,14 +117139,14 @@
 
     <e r="RL" c="sèr-se, sèir-se" alt="oc">
       <p>
-        <l>sèire<s n="vblex"/></l> 
+        <l>sèser<s n="vblex"/></l> 
         <r>sentar<s n="vblex"/></r> 
       </p>
     </e>
 
     <e r="LR" alt="oc">
       <p>
-        <l>sèire<s n="vblex"/></l> 
+        <l>sèser<s n="vblex"/></l> 
         <r>sentar<s n="vblex"/></r> 
       </p>
     </e>
@@ -117265,7 +117265,7 @@
 
     <e r="LR">
       <p>
-        <l>tier<s n="vblex"/></l> 
+        <l>tiéner<s n="vblex"/></l> 
         <r>tener<s n="vblex"/></r> 
       </p>
     </e>
@@ -117398,7 +117398,7 @@
 
     <e alt="oc">
       <p>
-        <l>traire<s n="vblex"/></l> 
+        <l>tràser<s n="vblex"/></l> 
         <r>sacar<s n="vblex"/></r> 
       </p>
     </e>
@@ -117447,7 +117447,7 @@
 
     <e alt="oc">
       <p>
-        <l>transmetre<s n="vblex"/></l> 
+        <l>transméter<s n="vblex"/></l> 
         <r>transmitir<s n="vblex"/></r> 
       </p>
     </e>
@@ -117657,7 +117657,7 @@
 
     <e alt="oc@aran">
       <p>
-        <l>trèir<s n="vblex"/></l> 
+        <l>tràser<s n="vblex"/></l> 
         <r>sacar<s n="vblex"/></r> 
       </p>
     </e>
@@ -117706,7 +117706,7 @@
 
     <e alt="oc@aran">
       <p>
-        <l>tèisher<s n="vblex"/></l> 
+        <l>tèisser<s n="vblex"/></l> 
         <r>tejer<s n="vblex"/></r> 
       </p>
     </e>
@@ -117734,7 +117734,7 @@
 
     <e r="LR" alt="oc">
       <p>
-        <l>téner<s n="vblex"/></l> 
+        <l>tiéner<s n="vblex"/></l> 
         <r>sostener<s n="vblex"/></r> 
       </p>
     </e>
@@ -117846,8 +117846,8 @@
 
     <e>
       <p>
-        <l>valer<s n="vblex"/></l> 
-        <r>valer<s n="vblex"/></r> 
+        <l>vàler<s n="vblex"/></l> 
+        <r>vàler<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -117895,14 +117895,14 @@
 
     <e alt="oc@aran">
       <p>
-        <l>veir<s n="vblex"/></l> 
+        <l>véser<s n="vblex"/></l> 
         <r>ver<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc">
       <p>
-        <l>veire<s n="vblex"/></l> 
+        <l>véser<s n="vblex"/></l> 
         <r>ver<s n="vblex"/></r> 
       </p>
     </e>
@@ -117916,7 +117916,7 @@
 
     <e alt="oc">
       <p>
-        <l>vendre<s n="vblex"/></l> 
+        <l>vénder<s n="vblex"/></l> 
         <r>vender<s n="vblex"/></r> 
       </p>
     </e>
@@ -117930,44 +117930,44 @@
 
     <e r="RL" alt="oc">
       <p>
-        <l>venir<s n="vblex"/></l> 
+        <l>viéner<s n="vblex"/></l> 
         <r>acaecer<s n="vblex"/></r> 
       </p>
     </e>
 
     <e r="RL" alt="oc">
       <p>
-        <l>venir<s n="vblex"/></l> 
+        <l>viéner<s n="vblex"/></l> 
         <r>acontecer<s n="vblex"/></r> 
       </p>
     </e>
 
     <e r="RL" alt="oc">
       <p>
-        <l>venir<s n="vblex"/></l> 
-        <r>devenir<s n="vblex"/></r> 
+        <l>viéner<s n="vblex"/></l> 
+        <r>deviéner<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc">
       <p>
-        <l>venir<s n="vblex"/></l> 
-        <r>venir<s n="vblex"/></r> 
+        <l>viéner<s n="vblex"/></l> 
+        <r>viéner<s n="vblex"/></r> 
       </p>
     </e>
     
     
     <e alt="oc@aran">
 	<p>
-	<l>vier<g><b/>a<b/>èster</g><s n="vblex"/></l>
-	<r>venir<g><b/>a<b/>ser</g><s n="vblex"/></r>
+	<l>viéner<g><b/>a<b/>èster</g><s n="vblex"/></l>
+	<r>viéner<g><b/>a<b/>ser</g><s n="vblex"/></r>
 	</p>
     </e>
 	
     <e alt="oc">
 	<p>
-	<l>venir<g><b/>a<b/>èsser</g><s n="vblex"/></l>
-	<r>venir<g><b/>a<b/>ser</g><s n="vblex"/></r>
+	<l>viéner<g><b/>a<b/>èsser</g><s n="vblex"/></l>
+	<r>viéner<g><b/>a<b/>ser</g><s n="vblex"/></r>
 	</p>
     </e>
 
@@ -118072,29 +118072,29 @@
 
     <e r="RL" alt="oc@aran">
       <p>
-        <l>vier<s n="vblex"/></l> 
+        <l>viéner<r<s n="vblex"/></l> 
         <r>acaecer<s n="vblex"/></r> 
       </p>
     </e>
 
     <e r="RL" alt="oc@aran">
       <p>
-        <l>vier<s n="vblex"/></l> 
+        <l>viéner<s n="vblex"/></l> 
         <r>acontecer<s n="vblex"/></r> 
       </p>
     </e>
 
     <e r="RL" alt="oc@aran">
       <p>
-        <l>vier<s n="vblex"/></l> 
-        <r>devenir<s n="vblex"/></r> 
+        <l>viéner<r<s n="vblex"/></l> 
+        <r>deviéner<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc@aran">
       <p>
-        <l>vier<s n="vblex"/></l> 
-        <r>venir<s n="vblex"/></r> 
+        <l>viéner<s n="vblex"/></l> 
+        <r>viéner<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -118156,7 +118156,7 @@
 
     <e alt="oc">
       <p>
-        <l>viure<s n="vblex"/></l> 
+        <l>víver<s n="vblex"/></l> 
         <r>vivir<s n="vblex"/></r> 
       </p>
     </e>
@@ -118198,14 +118198,14 @@
 
     <e alt="oc@aran">
       <p>
-        <l>véner<s n="vblex"/></l> 
+        <l>viéner<s n="vblex"/></l> 
         <r>vender<s n="vblex"/></r> 
       </p>
     </e>
 
     <e alt="oc@aran">
       <p>
-        <l>víuer<s n="vblex"/></l> 
+        <l>víver<s n="vblex"/></l> 
         <r>vivir<s n="vblex"/></r> 
       </p>
     </e>
@@ -118240,7 +118240,7 @@
 
 <e r="LR">
   <p>
-    <l>aduire<s n="vblex"/></l>
+    <l>adúser<s n="vblex"/></l>
     <r>aducir<s n="vblex"/></r>
   </p>
 </e>
@@ -118303,7 +118303,7 @@
 
 <e r="LR">
    <p>
-     <l>beure<s n="vblex"/></l>
+     <l>béver<s n="vblex"/></l>
      <r>beber<s n="vblex"/></r>
    </p>
  </e>
@@ -118324,14 +118324,14 @@
 
 <e r="LR">
     <p>
-      <l>conduire<s n="vblex"/></l>
+      <l>condúser<s n="vblex"/></l>
       <r>conducir<s n="vblex"/></r>
     </p>
 </e>
 
 <e r="LR">
   <p>
-    <l>confondre<s n="vblex"/></l>
+    <l>confónder<s n="vblex"/></l>
     <r>confundir<s n="vblex"/></r>
   </p>
 </e>
