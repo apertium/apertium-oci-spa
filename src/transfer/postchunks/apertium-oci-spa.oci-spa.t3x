@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?> <!-- -*- nxml -*- -->
+<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
 <postchunk>
   <section-def-cats>
 
@@ -257,7 +257,7 @@ GR -->
       </action>
     </rule> 
     
-    <rule comment="converteix no en 'sólo', si cal">
+    <rule comment="converteix no en 'sï¿½lo', si cal">
       <pattern>
 	<pattern-item n="solo"/>
       </pattern>
@@ -265,7 +265,7 @@ GR -->
 	<out>
 	  <lu>
 	    <get-case-from pos="1">
-	      <lit v="sólo"/>
+	      <lit v="sï¿½lo"/>
 	    </get-case-from>
 	    <clip pos="1" part="a_adv"/>
 	  </lu> 

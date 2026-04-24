@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?> <!-- -*- nxml -*- -->
+<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
 <interchunk>
   <section-def-cats>
 
@@ -218,8 +218,8 @@
       <list-item v="tras de"/>
       
  <!--     <list-item v="a rel de"/>
-      <list-item v="a través de"/>
-      <list-item v="d'ençà de"/>
+      <list-item v="a travï¿½s de"/>
+      <list-item v="d'enï¿½ï¿½ de"/>
       <list-item v="a causa de"/>
       <list-item v="dins de"/>
       <list-item v="en comptes de"/>
@@ -228,21 +228,21 @@
       <list-item v="al costat de"/>
       <list-item v="vora de"/>
       <list-item v="a la vora de"/>
-      <list-item v="per mitjà de"/> -->
+      <list-item v="per mitjï¿½ de"/> -->
       <!--		<list-item v="cap de"/>
-	  <list-item v="a trauèrs de"/>
-	  <list-item v="un pialèr de"/>
+	  <list-item v="a trauï¿½rs de"/>
+	  <list-item v="un pialï¿½r de"/>
 	  <list-item v="per causa de"/>
 	  <list-item v="per medi de"/>
-	  <list-item v="a arraïtz de"/>
+	  <list-item v="a arraï¿½tz de"/>
 	  <list-item v="a compdar de"/>
 	  <list-item v="a despiet de"/>
-	  <list-item v="entà per'mor de"/>
+	  <list-item v="entï¿½ per'mor de"/>
 	  <list-item v="des de"/>
 	  <list-item v="malgrat de"/>
 	  <list-item v="alloc de"/>
-	  <list-item v="dempús de"/>
-	  <list-item v="despús de"/>
+	  <list-item v="dempï¿½s de"/>
+	  <list-item v="despï¿½s de"/>
 	  <list-item v="ath cant de"/>-->
     </def-list>
   </section-def-lists>
@@ -349,7 +349,7 @@
     </def-macro>
 
     <def-macro n="cv_prep" npar="2">
-      <choose alt="oc@aran">
+      <choose>
         <when>
           <test>
             <and>
@@ -375,7 +375,7 @@
           </let>
         </when>
       </choose>
-      <choose alt="oc">
+      <choose>
         <when>
           <test>
             <and>
@@ -401,7 +401,7 @@
           </let>
         </when>
       </choose>
-      <choose alt="oc">
+      <choose>
         <when>
           <test>
             <and>
@@ -421,7 +421,7 @@
           </let>
         </when>
       </choose>
-      <choose alt="oc@aran">
+      <choose>
         <when>
           <test>
             <and>
@@ -441,7 +441,7 @@
           </let>
         </when>
       </choose>
-      <choose alt="oc@aran">
+      <choose>
         <when>
           <test>
             <and>
@@ -506,7 +506,7 @@
     </def-macro>
     
     <def-macro n="partitiu" npar="1">
-      <choose alt="oc">
+      <choose>
 	<when>
 	  <test>
 	    <or>
@@ -582,7 +582,7 @@
 	  </out>
 	</when>
       </choose>
-      <choose alt="oc@aran">
+      <choose>
 	<when>
 	  <test>
 	    <or>
@@ -619,7 +619,7 @@
     </def-macro>
 
     <def-macro n="canvis_amb_les_pr" npar="3">
-      <choose alt="oc">
+      <choose>
         <when>
           <test>
             <and>
@@ -667,11 +667,11 @@
           </out>
         </otherwise>
       </choose>
-      <call-macro n="cv_prep" alt="oc@aran">
+      <call-macro n="cv_prep">
         <with-param pos="2"/>
         <with-param pos="3"/>
       </call-macro>
-      <out alt="oc@aran">
+      <out>
         <chunk>
           <clip pos="2" part="lem"/>
           <clip pos="2" part="tags"/>
@@ -760,7 +760,7 @@
 	<var n="tipus_rel"/>
 	<lit v=""/>
       </let>
-      <choose><!-- si hi ha un vostè-->
+      <choose><!-- si hi ha un vostï¿½-->
 	<when>
 	  <test>
 	    <and>
@@ -2340,7 +2340,7 @@
 	  </chunk>
 	  <b pos="4"/>
 	</out>
-	<call-macro n="partitiu" alt="oc-ca">
+	<call-macro n="partitiu">
 	  <with-param pos="5"/>
 	</call-macro>
 	<out>
@@ -2462,7 +2462,7 @@
         <call-macro n="assigna_gen_nbr">
           <with-param pos="3"/>
         </call-macro>
-        <call-macro n="canvia_el_verb" alt="oc">
+        <call-macro n="canvia_el_verb">
           <with-param pos="1"/>
           <with-param pos="2"/>
           <with-param pos="3"/>
@@ -2510,7 +2510,7 @@
         <call-macro n="assigna_gen_nbr">
           <with-param pos="3"/>
         </call-macro>
-        <call-macro n="canvia_el_verb" alt="oc">
+        <call-macro n="canvia_el_verb">
           <with-param pos="1"/>
           <with-param pos="2"/>
           <with-param pos="3"/>
@@ -2651,7 +2651,7 @@
         <call-macro n="assigna_gen_nbr">
           <with-param pos="4"/>
         </call-macro>
-        <call-macro n="canvia_el_verb" alt="oc">
+        <call-macro n="canvia_el_verb">
           <with-param pos="1"/>
           <with-param pos="3"/>
           <with-param pos="4"/>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?> <!-- -*- nxml -*- -->
+<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
 <!-- -*- nxml -*- -->
 <transfer default="chunk">
   <section-def-cats>
@@ -58,7 +58,7 @@
     <def-cat n="prnperssubj">
       <cat-item lemma="jo" tags="prn.*"/>
       <cat-item lemma="ieu" tags="prn.*"/>
-      <cat-item lemma="ièu" tags="prn.*"/>
+      <cat-item lemma="iï¿½u" tags="prn.*"/>
       <cat-item lemma="tu" tags="prn.*"/>
       <cat-item lemma="eth" tags="prn.*"/>
       <cat-item lemma="el" tags="prn.*"/>
@@ -66,14 +66,14 @@
       <cat-item lemma="nosati" tags="prn.*"/>
       <cat-item lemma="vosautres" tags="prn.*"/>
       <cat-item lemma="vosati" tags="prn.*"/>
-      <cat-item lemma="vosté" tags="prn.*"/>
+      <cat-item lemma="vostï¿½" tags="prn.*"/>
       <cat-item lemma="vos" tags="prn.*"/>
     </def-cat>
     <def-cat n="prnsubj">
 <!-- prn no personals que poden ser subjecte (completar la llista)-->
       <cat-item lemma="quin" tags="prn.itg.*"/>
       <cat-item lemma="qual" tags="prn.itg.*"/>
-      <cat-item lemma="qué" tags="prn.itg.*"/>
+      <cat-item lemma="quï¿½" tags="prn.itg.*"/>
       <cat-item tags="prn.tn.*"/>
     </def-cat>
     <def-cat n="prnitg">
@@ -467,7 +467,7 @@
    <def-list n="mante_a"><!--llista de lemes en sl -->
       <list-item v="arribar"/>
       <list-item v="anar"/>
-    <list-item v="ténder"/>
+    <list-item v="tï¿½nder"/>
      <list-item v="tendre"/>
      <list-item v="jogar"/>
      <list-item v="arribar"/>
@@ -475,36 +475,36 @@
 		  <list-item v="dar"/>
 		  <list-item v="balhar"/>
     <list-item v="contribusir"/>
-     <list-item v="contribuïr"/>
+     <list-item v="contribuï¿½r"/>
      <list-item v="contribuir"/>     
    </def-list>
 		
     <def-list n="de_por"><!--llista de lemes en tl -->
-      <list-item v="formar" alt="oc"/>
-      <list-item v="lalà" alt="oc@aran"/>
+      <list-item v="formar"/>
+      <list-item v="lalï¿½"/>
     </def-list>
   
     <def-list n="contra_por"><!--llista de lemes en tl -->
-      <list-item v="cambiar" alt="oc"/>
-      <list-item v="intercambiar" alt="oc"/>    
-      <list-item v="lalà" alt="oc@aran"/>
+      <list-item v="cambiar"/>
+      <list-item v="intercambiar"/>    
+      <list-item v="lalï¿½"/>
     </def-list>
 
     <def-list n="de_sobre"><!--llista de lemes en tl -->
-      <list-item v="debatir" alt="oc"/>
-      <list-item v="debatre" alt="oc"/>
-      <list-item v="lalà" alt="oc@aran"/>
+      <list-item v="debatir"/>
+      <list-item v="debatre"/>
+      <list-item v="lalï¿½"/>
     </def-list>
 
 <!--    <def-list n="per_de">
-      <list-item v="acordar" alt="oc"/>
-      <list-item v="lalà" alt="oc@aran"/>
+      <list-item v="acordar"/>
+      <list-item v="lalï¿½"/>
     </def-list>-->
   
     <def-list n="en_a"><!--llista de lemes en tl -->
-      <list-item v="llegar" alt="oc@aran"/>
-      <list-item v="traducir" alt="oc@aran"/>
-      <list-item v="lalà" alt="oc"/>
+      <list-item v="llegar"/>
+      <list-item v="traducir"/>
+      <list-item v="lalï¿½"/>
     </def-list>
   
     <def-list n="sus_en"><!--llista de lemes en tl -->
@@ -525,15 +525,15 @@
  
     
     <def-list n="mes">
-      <list-item v="gèr"/>
-      <list-item v="genièr"/>
-      <list-item v="hereuèr"/>
-      <list-item v="febrièr"/>
-      <list-item v="març"/>
+      <list-item v="gï¿½r"/>
+      <list-item v="geniï¿½r"/>
+      <list-item v="hereuï¿½r"/>
+      <list-item v="febriï¿½r"/>
+      <list-item v="marï¿½"/>
       <list-item v="abriu"/>
       <list-item v="abril"/>
       <list-item v="mai"/>
-      <list-item v="junhsèga"/>
+      <list-item v="junhsï¿½ga"/>
       <list-item v="julhet"/>
       <list-item v="junh"/>
       <list-item v="juriol"/>
@@ -541,7 +541,7 @@
       <list-item v="seteme"/>
       <list-item v="setembre"/>
       <list-item v="octubre"/>
-      <list-item v="octòbre"/>
+      <list-item v="octï¿½bre"/>
       <list-item v="octobre"/>
       <list-item v="noveme"/>
       <list-item v="novembre"/>
@@ -555,12 +555,12 @@
       <list-item v="pas encara"/>
       <list-item v="pas sovent"/>
       <list-item v="non solament"/>
-      <list-item v="benlèu"/>
+      <list-item v="benlï¿½u"/>
     </def-list>
 
     <def-list n="part_sing">
       <list-item v="aiga"/>
-      <list-item v="petròli"/>
+      <list-item v="petrï¿½li"/>
       <list-item v="boder"/>
       <list-item v="vin"/>
       <list-item v="cervesa"/>
@@ -585,7 +585,7 @@
       <list-item v="venir"/>
       <list-item v="vier"/>
       <list-item v="passar"/>
-      <list-item v="gésser"/>
+      <list-item v="gï¿½sser"/>
     </def-list>
     
     <def-list n="vbcop">
@@ -610,18 +610,18 @@
       <list-item v="morir"/>
       <list-item v="entrar"/>
       <list-item v="defuntar"/>
-      <list-item v="nèisher"/>
-      <list-item v="nàisser"/>
+      <list-item v="nï¿½isher"/>
+      <list-item v="nï¿½isser"/>
       <list-item v="partir"/>
       <list-item v="venir"/>
       <list-item v="vier"/>
-      <list-item v="èster"/>
-      <list-item v="èsser"/>
+      <list-item v="ï¿½ster"/>
+      <list-item v="ï¿½sser"/>
       <list-item v="davalar"/>
       <list-item v="baissar"/>
       <list-item v="baishar"/>
-      <list-item v="aperténer"/>
-      <list-item v="pertànher"/>
+      <list-item v="apertï¿½ner"/>
+      <list-item v="pertï¿½nher"/>
     </def-list>
     
     
@@ -848,7 +848,7 @@
 		  </equal>
 		  <equal>
 		    <var n="tipusverb"/>
-		    <lit-tag v="hèr"/>
+		    <lit-tag v="hï¿½r"/>
 		  </equal>
 		</or>
 	      </test>
@@ -1038,7 +1038,7 @@
     <def-macro n="verb_ref" npar="2">
 <!-- aquesta macro canvia el significat de certs verbs reflexius-->
       <choose>
-<!--si el prn és ref...-->
+<!--si el prn ï¿½s ref...-->
         <when>
           <test>
             <or>
@@ -1187,7 +1187,7 @@
 	  </choose>
 	</when>
       </choose>
-      <choose><!-- aquests no són ref-->
+      <choose><!-- aquests no sï¿½n ref-->
 	<when>
 	  <test>
            <and>
@@ -1217,7 +1217,7 @@
 	  </choose>
 	</when>
       </choose>
-      <!-- aquí comença el tema del lema sv			 -->
+      <!-- aquï¿½ comenï¿½a el tema del lema sv			 -->
       <choose>
 	<when>
 	  <test>
@@ -1247,7 +1247,7 @@
     <def-macro n="verb_ref_mod" npar="3">
 <!-- aquesta macro canvia el significat de certs verbs reflexius-->
       <choose>
-<!--si el prn és ref...-->
+<!--si el prn ï¿½s ref...-->
         <when>
           <test>
             <or>
@@ -1362,7 +1362,7 @@
           </choose>
         </when>
       </choose>
- <choose><!-- aquests no són ref-->
+ <choose><!-- aquests no sï¿½n ref-->
 	<when>
 	  <test>
 	    <and>
@@ -1398,7 +1398,7 @@
       </choose>
 
 
-     <!-- aquí comença el tema del lema sv			 -->
+     <!-- aquï¿½ comenï¿½a el tema del lema sv			 -->
       <choose>
         <when>
           <test>
@@ -1472,7 +1472,7 @@
       </choose>
     </def-macro>
     <def-macro n="comprova_auxiliar_ref" npar="3">
-<!--aquesta macro troba l'aux correcte tenint en compte que si el verb és ref i porta l'aux "èsser" en cat ha de ser "haber". de passada, mira també si cal canviar el lema del verb (com la macro "verb_ref")-->      
+<!--aquesta macro troba l'aux correcte tenint en compte que si el verb ï¿½s ref i porta l'aux "ï¿½sser" en cat ha de ser "haber". de passada, mira tambï¿½ si cal canviar el lema del verb (com la macro "verb_ref")-->      
       <call-macro n="verb_ref_mod">
 	<with-param pos="3"/>
 	<with-param pos="1"/>
@@ -1489,7 +1489,7 @@
           </test>
           <choose>
             <when>
-<!--si és un verb que va amb "ser" fes que l'aux sigui "haber"-->
+<!--si ï¿½s un verb que va amb "ser" fes que l'aux sigui "haber"-->
               <test>
                 <in caseless="yes">
                   <clip pos="2" side="sl" part="lem"/>
@@ -1515,7 +1515,7 @@
             </when>
             <otherwise>
               <choose>
-<!--si és ref...-->
+<!--si ï¿½s ref...-->
                 <when>
                   <test>
                     <or>
@@ -1582,7 +1582,7 @@
           </choose>
         </when>
         <otherwise>
-<!--si l'orig és "aver" deixem "haber" en es-->
+<!--si l'orig ï¿½s "aver" deixem "haber" en es-->
           <let>
             <clip pos="2" side="tl" part="gen"/>
             <lit-tag v="m"/>
@@ -1623,14 +1623,16 @@
         <when>
           <test>
             <and>
-              <equal alt="oc">
-                <clip pos="1" side="sl" part="lem"/>
-                <lit v="dever"/>
-              </equal>
-              <equal alt="oc@aran">
-                <clip pos="1" side="sl" part="lem"/>
-                <lit v="déuer"/>
-              </equal>
+              <or>
+                <equal>
+                  <clip pos="1" side="sl" part="lem"/>
+                  <lit v="dever"/>
+                </equal>
+                <equal>
+                  <clip pos="1" side="sl" part="lem"/>
+                  <lit v="dï¿½uer"/>
+                </equal>
+              </or>
               <equal>
                 <var n="cond"/>
                 <lit v="yes"/>
@@ -1743,86 +1745,86 @@
                                 <lit-tag v="vba_en"/>
                               </let>
                             </when>
-			    <otherwise>
-			      <choose>
-				<when>
-				  <test>
-				    <in caseless="yes">
-				      <clip pos="1" side="tl" part="lem"/>
-				      <list n="de_sobre"/>
-				    </in>
-				  </test>
-				  <let>
-				    <var n="tipusverb"/>
-				    <lit-tag v="vbde_sobre"/>
-				  </let>
-				</when>
-				<otherwise>
-				  <choose>
-				    <when>
-				      <test>
-					<in caseless="yes">
-					  <clip pos="1" side="sl" part="lem"/>
-					  <list n="mante_a"/>
-					</in>
-				      </test>
-				      <let>
-					<var n="tipusverb"/>
-					<lit-tag v="vbmante_a"/>
-				      </let>
-				    </when>
-				    <otherwise>
-				      <choose>
-					<when>
-					  <test>
-					    <equal>
-					      <clip pos="1" side="sl" part="a_verb"/>
-					      <lit-tag v="vbser"/>
-					    </equal>
-					  </test>
-					  <let>
-					    <var n="tipusverb"/>
-					    <lit-tag v="ser"/>
-					  </let>
-					</when>
-					<otherwise>
-					  <choose>
-					    <when>
-					      <test>
-						<equal>
-						  <clip pos="1" side="sl" part="lem"/>
-						  <lit v="hèr"/>
-						</equal>
-					      </test>
-					      <let>
-						<var n="tipusverb"/>
-						<lit-tag v="hèr"/>
-					      </let>
-					    </when>
-					    <otherwise>
-					      <let>
-						<var n="tipusverb"/>
-						<lit-tag v="nodef"/>
-					      </let>
-					    </otherwise>
-					  </choose>
-					</otherwise>
-				      </choose>
-				    </otherwise>
-				  </choose>
-				</otherwise>
-			      </choose>
-			    </otherwise>
-			  </choose>
-			</otherwise>
-		      </choose>
-		    </otherwise>
-		  </choose>
-		</otherwise>
-	      </choose>
-	    </otherwise>
-	  </choose>
-	</otherwise>
+			                      <otherwise>
+			                        <choose>
+                                <when>
+                                  <test>
+                                    <in caseless="yes">
+                                      <clip pos="1" side="tl" part="lem"/>
+                                      <list n="de_sobre"/>
+                                    </in>
+                                  </test>
+                                  <let>
+                                    <var n="tipusverb"/>
+                                    <lit-tag v="vbde_sobre"/>
+                                  </let>
+                                </when>
+                                <otherwise>
+                                  <choose>
+                                    <when>
+                                      <test>
+                                        <in caseless="yes">
+                                          <clip pos="1" side="sl" part="lem"/>
+                                          <list n="mante_a"/>
+                                        </in>
+                                      </test>
+                                      <let>
+                                        <var n="tipusverb"/>
+                                        <lit-tag v="vbmante_a"/>
+                                      </let>
+                                    </when>
+                                    <otherwise>
+                                      <choose>
+                                        <when>
+                                          <test>
+                                            <equal>
+                                              <clip pos="1" side="sl" part="a_verb"/>
+                                              <lit-tag v="vbser"/>
+                                            </equal>
+                                          </test>
+                                          <let>
+                                            <var n="tipusverb"/>
+                                            <lit-tag v="ser"/>
+                                          </let>
+                                        </when>
+                                        <otherwise>
+                                          <choose>
+                                            <when>
+                                              <test>
+                                                <equal>
+                                                  <clip pos="1" side="sl" part="lem"/>
+                                                  <lit v="hï¿½r"/>
+                                                </equal>
+                                              </test>
+                                              <let>
+                                                <var n="tipusverb"/>
+                                                <lit-tag v="hï¿½r"/>
+                                              </let>
+                                            </when>
+                                            <otherwise>
+                                              <let>
+                                                <var n="tipusverb"/>
+                                                <lit-tag v="nodef"/>
+                                              </let>
+                                            </otherwise>
+                                          </choose>
+                                        </otherwise>
+                                      </choose>
+                                    </otherwise>
+                                  </choose>
+                                </otherwise>
+                              </choose>
+			                      </otherwise>
+			                    </choose>
+			                  </otherwise>
+		                  </choose>
+		                </otherwise>
+		              </choose>
+		            </otherwise>
+	            </choose>
+	          </otherwise>
+	        </choose>
+	      </otherwise>
       </choose>
 
 
@@ -1869,12 +1871,12 @@
           <test>
             <equal caseless="yes">
               <clip pos="1" side="sl" part="lemh"/>
-              <lit v="començar"/>
+              <lit v="comenï¿½ar"/>
             </equal>
           </test>
           <let>
             <var n="cv_verb"/>
-            <lit-tag v="començar"/>
+            <lit-tag v="comenï¿½ar"/>
           </let>
         </when>
         <when>
@@ -1889,12 +1891,12 @@
             <lit-tag v="estar"/>
           </let>
         </when>
-	<otherwise>
-	  <let>
-	    <var n="cv_verb"/>
-	    <lit-tag v=""/>
-	  </let>
-	</otherwise>
+        <otherwise>
+          <let>
+            <var n="cv_verb"/>
+            <lit-tag v=""/>
+          </let>
+        </otherwise>
       </choose>
     </def-macro>
     
@@ -1922,53 +1924,53 @@
 
     <def-macro n="firstWord" npar="1">
       <choose>
-	<when>
-	  <test>
-	    <equal>
-	      <clip pos="1" side="sl" part="a_np_acr"/>
-	      <lit v=""/>
-	    </equal>
-	  </test>
-	  <choose>
-	    <when>
-	      <test>
-		<equal> 
-		  <var n="EOS"/>
-		  <lit v="true"/>
-		</equal> 
-	      </test>
-	      <modify-case>
-		<clip pos="1" side="tl" part="lem"/>
-		<lit v="aa"/>
-	      </modify-case>
-	      <let>
-		<var n="caseFirstWord"/>
-		<lit v="Aa"/>
-	      </let>
-	    </when>
-	    <otherwise> 
-	      <let>
-		<var n="caseFirstWord"/>
-		<lit v="aa"/>
-	      </let>
-	    </otherwise>
-	  </choose>
-	</when>
-	<otherwise>
-	  <let>
-	    <var n="caseFirstWord"/>
-	    <lit v="aa"/>
-	  </let>
-	</otherwise>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" side="sl" part="a_np_acr"/>
+              <lit v=""/>
+            </equal>
+          </test>
+          <choose>
+            <when>
+              <test>
+                <equal> 
+                  <var n="EOS"/>
+                  <lit v="true"/>
+                </equal> 
+              </test>
+              <modify-case>
+                <clip pos="1" side="tl" part="lem"/>
+                <lit v="aa"/>
+              </modify-case>
+              <let>
+                <var n="caseFirstWord"/>
+                <lit v="Aa"/>
+              </let>
+            </when>
+            <otherwise> 
+              <let>
+                <var n="caseFirstWord"/>
+                <lit v="aa"/>
+              </let>
+            </otherwise>
+          </choose>
+        </when>
+        <otherwise>
+          <let>
+            <var n="caseFirstWord"/>
+            <lit v="aa"/>
+          </let>
+        </otherwise>
       </choose>
       <let>
-	<var n="EOS"/>
-	<lit v="false"/>
+        <var n="EOS"/>
+        <lit v="false"/>
       </let>
     </def-macro>
 
 
-  <!-- macro antiga , canviada per MG 25-04-08, s'ha tret de totes les regles també <let><var n="caseFirstWord"/><lit v="aa"/></let>
+  <!-- macro antiga , canviada per MG 25-04-08, s'ha tret de totes les regles tambï¿½ <let><var n="caseFirstWord"/><lit v="aa"/></let>
 
 
        <def-macro n="firstWord" npar="1">
@@ -4318,7 +4320,7 @@
         </when>
       </choose>
     </def-macro>
-    <!-- revisar si té sentit GR-->
+    <!-- revisar si tï¿½ sentit GR-->
     <def-macro n="numeral" npar="2">
       <choose>
         <when>
@@ -4346,7 +4348,7 @@
     <!--*************************************** REGLES DE SN ******************************************** -->
 
 
-    <rule comment="REGLA:  nploc tota: frança tota->toda francia">
+    <rule comment="REGLA:  nploc tota: franï¿½a tota->toda francia">
       <pattern>
 	<pattern-item n="nploc"/>
 	<pattern-item n="tota"/>
@@ -4418,7 +4420,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: ANTROPÒNIM">
+    <rule comment="REGLA: ANTROPï¿½NIM">
       <pattern>
         <pattern-item n="ant"/>
       </pattern>
@@ -4439,7 +4441,7 @@
       </action>
     </rule>
    
-    <rule comment="REGLA: DET ANTROPÒNIM">
+    <rule comment="REGLA: DET ANTROPï¿½NIM">
       <pattern>
         <pattern-item n="det"/>
         <pattern-item n="ant"/>
@@ -4468,7 +4470,7 @@
       </action>
     </rule>
     
-    <rule comment="REGLA: DET ADJ ANTROPÒNIM">
+    <rule comment="REGLA: DET ADJ ANTROPï¿½NIM">
       <pattern>
         <pattern-item n="det"/>
         <pattern-item n="adj"/>
@@ -4505,7 +4507,7 @@
       </action>
     </rule>
     
-    <rule comment="REGLA: DET ANTROPÒNIM ADJ">
+    <rule comment="REGLA: DET ANTROPï¿½NIM ADJ">
       <pattern>
         <pattern-item n="det"/>
         <pattern-item n="ant"/>
@@ -4542,7 +4544,7 @@
       </action>
     </rule>
     
-    <rule comment="REGLA: 2 ANTROPÒNIMS (px. maria lópez)">
+    <rule comment="REGLA: 2 ANTROPï¿½NIMS (px. maria lï¿½pez)">
       <pattern>
         <pattern-item n="ant"/>
         <pattern-item n="ant"/>
@@ -4568,7 +4570,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: DET 2 ANTROPÒNIMS (px. la maria lópez)">
+    <rule comment="REGLA: DET 2 ANTROPï¿½NIMS (px. la maria lï¿½pez)">
       <pattern>
         <pattern-item n="det"/>
         <pattern-item n="ant"/>
@@ -4601,7 +4603,7 @@
         </call-macro>
       </action>
     </rule>
-    <rule comment="REGLA: DET ADJ 2 ANTROPÒNIMS (px. la pichona maria lópez)">
+    <rule comment="REGLA: DET ADJ 2 ANTROPï¿½NIMS (px. la pichona maria lï¿½pez)">
       <pattern>
         <pattern-item n="det"/>
         <pattern-item n="adjec"/>
@@ -4642,7 +4644,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: DET 2 ANTROPÒNIMS ADJ (px. la maria lópez pichona)">
+    <rule comment="REGLA: DET 2 ANTROPï¿½NIMS ADJ (px. la maria lï¿½pez pichona)">
       <pattern>
         <pattern-item n="det"/>
         <pattern-item n="ant"/>
@@ -6136,11 +6138,11 @@
                 </equal>
                <equal caseless="yes">
                   <clip pos="1" side="sl" part="lemh"/>
-                  <lit v="èsser"/>
+                  <lit v="ï¿½sser"/>
                 </equal>
                <equal caseless="yes">
                   <clip pos="1" side="sl" part="lemh"/>
-                  <lit v="èster"/>
+                  <lit v="ï¿½ster"/>
                 </equal>
                 <equal caseless="yes">
                   <clip pos="1" side="sl" part="lemh"/>
@@ -6241,7 +6243,7 @@
         </out>
       </action>
     </rule>
- <rule comment="REGLA: VERB ADV" alt="oc">
+ <rule comment="REGLA: VERB ADV" v="oci">
       <pattern>
         <pattern-item n="verbpers"/>
         <pattern-item n="adv_preadv"/>
@@ -6574,7 +6576,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: anar INF" alt="oc">
+    <rule comment="REGLA: anar INF" v="oci">
       <pattern>
         <pattern-item n="anar"/>
         <pattern-item n="inf"/>
@@ -6621,7 +6623,7 @@
       </action>
     </rule>
 
-	<rule comment="REGLA: vbmod anar INF" alt="oc">
+	<rule comment="REGLA: vbmod anar INF" v="oci">
 	  <pattern>
 	    <pattern-item n="verbpers"/>
 	    <pattern-item n="anar"/>
@@ -6701,7 +6703,7 @@
 
 
 
-    <rule comment="REGLA: pro anar INF" alt="oc">
+    <rule comment="REGLA: pro anar INF" v="oci">
       <pattern>
         <pattern-item n="prnpro"/>
         <pattern-item n="anar"/>
@@ -6753,7 +6755,7 @@
       </action>
     </rule>
 
-	<rule comment="REGLA: pro vbmod anar INF" alt="oc">
+	<rule comment="REGLA: pro vbmod anar INF" v="oci">
 	  <pattern>
 	    <pattern-item n="prnpro"/>
 	    <pattern-item n="verbpers"/>
@@ -6837,7 +6839,7 @@
 	</rule>
 
 
-    <rule comment="REGLA: pro pro anar INF" alt="oc">
+    <rule comment="REGLA: pro pro anar INF" v="oci">
       <pattern>
         <pattern-item n="prnpro"/>
         <pattern-item n="prnpro"/>
@@ -6895,7 +6897,7 @@
     </rule>
     
 
-	<rule comment="REGLA: pro pro vbmod anar INF" alt="oc">
+	<rule comment="REGLA: pro pro vbmod anar INF" v="oci">
 	  <pattern>
 	    <pattern-item n="prnpro"/>
 	    <pattern-item n="prnpro"/>
@@ -6983,7 +6985,7 @@
 	  </action>
 	</rule>
 
-    <rule comment="anar adv inf -&gt; adv anar a inf" alt="oc">
+    <rule comment="anar adv inf -&gt; adv anar a inf" v="oci">
       <pattern>
         <pattern-item n="anar"/>
         <pattern-item n="adv"/>
@@ -7096,7 +7098,7 @@
     </rule>
 
 
-	<rule comment="vbmod anar adv inf -> adv anar a inf" alt="oc">
+	<rule comment="vbmod anar adv inf -> adv anar a inf" v="oci">
 	  <pattern>
 	    <pattern-item n="verbpers"/>
 	    <pattern-item n="adv"/>
@@ -7225,7 +7227,7 @@
 
     
     
-    <rule comment="REGLA: pro anar adv INF" alt="oc">
+    <rule comment="REGLA: pro anar adv INF" v="oci">
       <pattern>
         <pattern-item n="prnpro"/>
         <pattern-item n="anar"/>
@@ -7357,7 +7359,7 @@
     </rule>
 
 
-	<rule comment="REGLA: pro vbmod anar adv INF" alt="oc">
+	<rule comment="REGLA: pro vbmod anar adv INF" v="oci">
 	  <pattern>
 	    <pattern-item n="prnpro"/>
 	    <pattern-item n="verbpers"/>
@@ -7508,7 +7510,7 @@
 	</rule>
 
 
-    <rule comment="REGLA: pro pro anar adv INF" alt="oc">
+    <rule comment="REGLA: pro pro anar adv INF" v="oci">
       <pattern>
         <pattern-item n="prnpro"/>
         <pattern-item n="prnpro"/>
@@ -7649,7 +7651,7 @@
     </rule>
     
 
-	<rule comment="REGLA: pro pro vbmod anar adv INF" alt="oc">
+	<rule comment="REGLA: pro pro vbmod anar adv INF" v="oci">
 	  <pattern>
 	    <pattern-item n="prnpro"/>
 	    <pattern-item n="prnpro"/>
@@ -7809,7 +7811,7 @@
 	</rule>
 
 
-    <rule comment="REGLA: anar a INF" alt="oc@aran">
+    <rule comment="REGLA: anar a INF" v="oci@aran">
       <pattern>
         <pattern-item n="anar"/>
         <pattern-item n="a"/>
@@ -7855,7 +7857,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: pro anar a INF" alt="oc@aran">
+    <rule comment="REGLA: pro anar a INF" v="oci@aran">
       <pattern>
         <pattern-item n="prnpro"/>
         <pattern-item n="anar"/>
@@ -7906,7 +7908,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: pro pro anar a INF" alt="oc@aran">
+    <rule comment="REGLA: pro pro anar a INF" v="oci@aran">
       <pattern>
         <pattern-item n="prnpro"/>
         <pattern-item n="prnpro"/>
@@ -7963,7 +7965,7 @@
       </action>
     </rule>
 
-	<rule comment="anar adv a inf -> anar a inf adv" alt="oc@aran">
+	<rule comment="anar adv a inf -> anar a inf adv" v="oci@aran">
       <pattern>
         <pattern-item n="anar"/>
         <pattern-item n="adv"/>
@@ -8022,7 +8024,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: pro anar adv a INF" alt="oc@aran">
+    <rule comment="REGLA: pro anar adv a INF" v="oci@aran">
       <pattern>
         <pattern-item n="prnpro"/>
         <pattern-item n="anar"/>
@@ -8090,7 +8092,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: pro pro anar adv INF" alt="oc@aran">
+    <rule comment="REGLA: pro pro anar adv INF" v="oci@aran">
       <pattern>
         <pattern-item n="prnpro"/>
         <pattern-item n="prnpro"/>
@@ -8585,7 +8587,7 @@
           <var n="impersonal"/>
           <lit v=""/>
         </let>
-        <choose alt="oc">
+        <choose>
           <when>
             <test>
               <in caseless="yes">
@@ -8665,7 +8667,7 @@
             </out>
           </otherwise>
         </choose>
-        <out alt="oc@aran">
+        <out>
           <chunk namefrom="lema_sv" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
@@ -8754,7 +8756,7 @@
           <var n="impersonal"/>
           <lit v=""/>
         </let>
-        <choose alt="oc">
+        <choose>
           <when>
             <test>
               <in caseless="yes">
@@ -8846,7 +8848,7 @@
             </out>
           </otherwise>
         </choose>
-        <out alt="oc@aran">
+        <out>
           <chunk namefrom="lema_sv" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>

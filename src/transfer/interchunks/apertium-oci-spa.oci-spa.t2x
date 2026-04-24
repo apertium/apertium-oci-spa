@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-15"?> <!-- -*- nxml -*- -->
+<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
 <interchunk>
   <section-def-cats>
 
@@ -83,8 +83,8 @@
     
  <def-attr n="lema_vb">
       <attr-item tags="venir"/>
-      <attr-item tags="hèr"/>
-      <attr-item tags="començar"/>
+      <attr-item tags="hï¿œr"/>
+      <attr-item tags="comenï¿œar"/>
       <attr-item tags="contunhar"/>
       <attr-item tags="estar"/>
       <attr-item tags="ser"/>
@@ -310,7 +310,7 @@
               <test>
                 <equal caseless="yes">
                   <clip pos="1" part="lema_vb"/>
-                  <lit-tag v="començar"/>
+                  <lit-tag v="comenï¿œar"/>
                 </equal>
               </test>
               <let>
@@ -354,10 +354,10 @@
 
 
    <def-macro n="canvis_amb_les_pr" npar="3">
-     <!-- <call-macro n="cv_prep" alt="oc@aran">
+     <!-- <call-macro n="cv_prep" alt="oci@aran">
         <with-param pos="2"/>
         <with-param pos="3"/>
-      </call-macro> en castellà no fa falta-->
+      </call-macro> en castellï¿œ no fa falta-->
      <choose>	
 	<when>
 	  <test>
@@ -414,7 +414,7 @@
 	      <and>
 		<equal>
 		  <clip pos="1" part="lema_vb"/>
-		  <lit-tag v="hèr"/>
+		  <lit-tag v="hï¿œr"/>
 		</equal>
 		<equal>
 		  <clip pos="2" part="lem"/>
@@ -623,7 +623,7 @@
 
     </def-macro>
 
-    <def-macro n="concord_sa" npar="2"><!--assinga el gen i el nbr del sn en els sa en les frases amb verb copulatiu (p.ex "la perspectiva de tu padre es interesante" -> "interesante" concordarà  amb el subjecte)-->
+    <def-macro n="concord_sa" npar="2"><!--assinga el gen i el nbr del sn en els sa en les frases amb verb copulatiu (p.ex "la perspectiva de tu padre es interesante" -> "interesante" concordarï¿œ amb el subjecte)-->
       <choose>
         <when> 
           <test>
@@ -730,7 +730,7 @@
         </when>
       </choose>
     </def-macro>
-    <def-macro n="f_bcond" npar="2"><!--Per mirar si el blanc conte o no format. Cal posar aquesta funcio les regles en que desaparegui alguna paraula, per tal de decidir si el blanc de la paraula eliminada s'ha d'eliminar o conservar. Si conté format cal conservar-la, si no en conte cal eliminar-la perque no apareguin dos espais seguits. -->
+    <def-macro n="f_bcond" npar="2"><!--Per mirar si el blanc conte o no format. Cal posar aquesta funcio les regles en que desaparegui alguna paraula, per tal de decidir si el blanc de la paraula eliminada s'ha d'eliminar o conservar. Si contï¿œ format cal conservar-la, si no en conte cal eliminar-la perque no apareguin dos espais seguits. -->
       <choose>
         <when>
           <test>
@@ -1066,7 +1066,7 @@
       </action>
     </rule>
 
-    <rule comment="REGLA: ADV ADV SV. per arreglar el tema de la doble negació...">
+    <rule comment="REGLA: ADV ADV SV. per arreglar el tema de la doble negaciï¿œ...">
       <pattern>
         <pattern-item n="ADV"/>
         <pattern-item n="ADV"/>
@@ -1152,7 +1152,7 @@
 	<call-macro n="assigna_gen_nbr">
 	  <with-param pos="2"/>
 	</call-macro>
-	<choose alt="oc">
+	<choose>
 	  <when>
 	    <test>
 	      <and>
@@ -1204,7 +1204,7 @@
 	    </out>
 	  </otherwise>
 	</choose>
-	<out alt="oc@aran">
+	<out>
 	  <chunk>
 	    <clip pos="1" part="lem"/>
 	    <clip pos="1" part="tags"/>
@@ -1610,7 +1610,7 @@
     </rule>
 
    
-    <rule comment="REGLA: no SV que: no les ditz que... -> només els diu...">
+    <rule comment="REGLA: no SV que: no les ditz que... -> nomï¿œs els diu...">
       <pattern>
         <pattern-item n="no"/>
         <pattern-item n="SV"/>

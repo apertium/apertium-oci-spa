@@ -22,3 +22,5 @@
 /config.in
 /config
 /test/*-output.txt
+/bin
+/build
