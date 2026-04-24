@@ -257,7 +257,7 @@ GR -->
       </action>
     </rule> 
     
-    <rule comment="converteix no en 's�lo', si cal">
+    <rule comment="converteix no en 'sólo', si cal">
       <pattern>
 	<pattern-item n="solo"/>
       </pattern>
@@ -265,7 +265,7 @@ GR -->
 	<out>
 	  <lu>
 	    <get-case-from pos="1">
-	      <lit v="s�lo"/>
+	      <lit v="sólo"/>
 	    </get-case-from>
 	    <clip pos="1" part="a_adv"/>
 	  </lu> 

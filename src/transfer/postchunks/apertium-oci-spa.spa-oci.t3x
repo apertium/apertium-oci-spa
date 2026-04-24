@@ -973,7 +973,7 @@
 	    </test>
 	    <let>
 	      <clip pos="1" part="lem"/>
-	      <lit v="t�"/>
+	      <lit v="tà"/>
 	    </let>
 	  </when>
 	</choose>
@@ -993,7 +993,7 @@
 	    </test>
 	    <let>
 	      <clip pos="1" part="lem"/>
-	      <lit v="ent�"/>
+	      <lit v="entà"/>
 	    </let>
 	  </when>
 	</choose>

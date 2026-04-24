@@ -58,7 +58,7 @@
     <def-cat n="prnperssubj">
       <cat-item lemma="jo" tags="prn.*"/>
       <cat-item lemma="ieu" tags="prn.*"/>
-      <cat-item lemma="i�u" tags="prn.*"/>
+      <cat-item lemma="iču" tags="prn.*"/>
       <cat-item lemma="tu" tags="prn.*"/>
       <cat-item lemma="eth" tags="prn.*"/>
       <cat-item lemma="el" tags="prn.*"/>
@@ -66,14 +66,14 @@
       <cat-item lemma="nosati" tags="prn.*"/>
       <cat-item lemma="vosautres" tags="prn.*"/>
       <cat-item lemma="vosati" tags="prn.*"/>
-      <cat-item lemma="vost�" tags="prn.*"/>
+      <cat-item lemma="vosté" tags="prn.*"/>
       <cat-item lemma="vos" tags="prn.*"/>
     </def-cat>
     <def-cat n="prnsubj">
 <!-- prn no personals que poden ser subjecte (completar la llista)-->
       <cat-item lemma="quin" tags="prn.itg.*"/>
       <cat-item lemma="qual" tags="prn.itg.*"/>
-      <cat-item lemma="qu�" tags="prn.itg.*"/>
+      <cat-item lemma="qué" tags="prn.itg.*"/>
       <cat-item tags="prn.tn.*"/>
     </def-cat>
     <def-cat n="prnitg">
@@ -467,7 +467,7 @@
    <def-list n="mante_a"><!--llista de lemes en sl -->
       <list-item v="arribar"/>
       <list-item v="anar"/>
-    <list-item v="t�nder"/>
+    <list-item v="ténder"/>
      <list-item v="tendre"/>
      <list-item v="jogar"/>
      <list-item v="arribar"/>
@@ -475,36 +475,36 @@
 		  <list-item v="dar"/>
 		  <list-item v="balhar"/>
     <list-item v="contribusir"/>
-     <list-item v="contribu�r"/>
+     <list-item v="contribuďr"/>
      <list-item v="contribuir"/>     
    </def-list>
 		
     <def-list n="de_por"><!--llista de lemes en tl -->
       <list-item v="formar"/>
-      <list-item v="lal�"/>
+      <list-item v="lalŕ"/>
     </def-list>
   
     <def-list n="contra_por"><!--llista de lemes en tl -->
       <list-item v="cambiar"/>
       <list-item v="intercambiar"/>    
-      <list-item v="lal�"/>
+      <list-item v="lalŕ"/>
     </def-list>
 
     <def-list n="de_sobre"><!--llista de lemes en tl -->
       <list-item v="debatir"/>
       <list-item v="debatre"/>
-      <list-item v="lal�"/>
+      <list-item v="lalŕ"/>
     </def-list>
 
 <!--    <def-list n="per_de">
       <list-item v="acordar"/>
-      <list-item v="lal�"/>
+      <list-item v="lalŕ"/>
     </def-list>-->
   
     <def-list n="en_a"><!--llista de lemes en tl -->
       <list-item v="llegar"/>
       <list-item v="traducir"/>
-      <list-item v="lal�"/>
+      <list-item v="lalŕ"/>
     </def-list>
   
     <def-list n="sus_en"><!--llista de lemes en tl -->
@@ -525,15 +525,15 @@
  
     
     <def-list n="mes">
-      <list-item v="g�r"/>
-      <list-item v="geni�r"/>
-      <list-item v="hereu�r"/>
-      <list-item v="febri�r"/>
-      <list-item v="mar�"/>
+      <list-item v="gčr"/>
+      <list-item v="geničr"/>
+      <list-item v="hereučr"/>
+      <list-item v="febričr"/>
+      <list-item v="març"/>
       <list-item v="abriu"/>
       <list-item v="abril"/>
       <list-item v="mai"/>
-      <list-item v="junhs�ga"/>
+      <list-item v="junhsčga"/>
       <list-item v="julhet"/>
       <list-item v="junh"/>
       <list-item v="juriol"/>
@@ -541,7 +541,7 @@
       <list-item v="seteme"/>
       <list-item v="setembre"/>
       <list-item v="octubre"/>
-      <list-item v="oct�bre"/>
+      <list-item v="octňbre"/>
       <list-item v="octobre"/>
       <list-item v="noveme"/>
       <list-item v="novembre"/>
@@ -555,12 +555,12 @@
       <list-item v="pas encara"/>
       <list-item v="pas sovent"/>
       <list-item v="non solament"/>
-      <list-item v="benl�u"/>
+      <list-item v="benlču"/>
     </def-list>
 
     <def-list n="part_sing">
       <list-item v="aiga"/>
-      <list-item v="petr�li"/>
+      <list-item v="petrňli"/>
       <list-item v="boder"/>
       <list-item v="vin"/>
       <list-item v="cervesa"/>
@@ -585,7 +585,7 @@
       <list-item v="venir"/>
       <list-item v="vier"/>
       <list-item v="passar"/>
-      <list-item v="g�sser"/>
+      <list-item v="gésser"/>
     </def-list>
     
     <def-list n="vbcop">
@@ -610,18 +610,18 @@
       <list-item v="morir"/>
       <list-item v="entrar"/>
       <list-item v="defuntar"/>
-      <list-item v="n�isher"/>
-      <list-item v="n�isser"/>
+      <list-item v="nčisher"/>
+      <list-item v="nŕisser"/>
       <list-item v="partir"/>
       <list-item v="venir"/>
       <list-item v="vier"/>
-      <list-item v="�ster"/>
-      <list-item v="�sser"/>
+      <list-item v="čster"/>
+      <list-item v="čsser"/>
       <list-item v="davalar"/>
       <list-item v="baissar"/>
       <list-item v="baishar"/>
-      <list-item v="apert�ner"/>
-      <list-item v="pert�nher"/>
+      <list-item v="aperténer"/>
+      <list-item v="pertŕnher"/>
     </def-list>
     
     
@@ -848,7 +848,7 @@
 		  </equal>
 		  <equal>
 		    <var n="tipusverb"/>
-		    <lit-tag v="h�r"/>
+		    <lit-tag v="hčr"/>
 		  </equal>
 		</or>
 	      </test>
@@ -1038,7 +1038,7 @@
     <def-macro n="verb_ref" npar="2">
 <!-- aquesta macro canvia el significat de certs verbs reflexius-->
       <choose>
-<!--si el prn �s ref...-->
+<!--si el prn és ref...-->
         <when>
           <test>
             <or>
@@ -1187,7 +1187,7 @@
 	  </choose>
 	</when>
       </choose>
-      <choose><!-- aquests no s�n ref-->
+      <choose><!-- aquests no són ref-->
 	<when>
 	  <test>
            <and>
@@ -1217,7 +1217,7 @@
 	  </choose>
 	</when>
       </choose>
-      <!-- aqu� comen�a el tema del lema sv			 -->
+      <!-- aquí comença el tema del lema sv			 -->
       <choose>
 	<when>
 	  <test>
@@ -1247,7 +1247,7 @@
     <def-macro n="verb_ref_mod" npar="3">
 <!-- aquesta macro canvia el significat de certs verbs reflexius-->
       <choose>
-<!--si el prn �s ref...-->
+<!--si el prn és ref...-->
         <when>
           <test>
             <or>
@@ -1362,7 +1362,7 @@
           </choose>
         </when>
       </choose>
- <choose><!-- aquests no s�n ref-->
+ <choose><!-- aquests no són ref-->
 	<when>
 	  <test>
 	    <and>
@@ -1398,7 +1398,7 @@
       </choose>
 
 
-     <!-- aqu� comen�a el tema del lema sv			 -->
+     <!-- aquí comença el tema del lema sv			 -->
       <choose>
         <when>
           <test>
@@ -1472,7 +1472,7 @@
       </choose>
     </def-macro>
     <def-macro n="comprova_auxiliar_ref" npar="3">
-<!--aquesta macro troba l'aux correcte tenint en compte que si el verb �s ref i porta l'aux "�sser" en cat ha de ser "haber". de passada, mira tamb� si cal canviar el lema del verb (com la macro "verb_ref")-->      
+<!--aquesta macro troba l'aux correcte tenint en compte que si el verb és ref i porta l'aux "čsser" en cat ha de ser "haber". de passada, mira també si cal canviar el lema del verb (com la macro "verb_ref")-->      
       <call-macro n="verb_ref_mod">
 	<with-param pos="3"/>
 	<with-param pos="1"/>
@@ -1489,7 +1489,7 @@
           </test>
           <choose>
             <when>
-<!--si �s un verb que va amb "ser" fes que l'aux sigui "haber"-->
+<!--si és un verb que va amb "ser" fes que l'aux sigui "haber"-->
               <test>
                 <in caseless="yes">
                   <clip pos="2" side="sl" part="lem"/>
@@ -1515,7 +1515,7 @@
             </when>
             <otherwise>
               <choose>
-<!--si �s ref...-->
+<!--si és ref...-->
                 <when>
                   <test>
                     <or>
@@ -1582,7 +1582,7 @@
           </choose>
         </when>
         <otherwise>
-<!--si l'orig �s "aver" deixem "haber" en es-->
+<!--si l'orig és "aver" deixem "haber" en es-->
           <let>
             <clip pos="2" side="tl" part="gen"/>
             <lit-tag v="m"/>
@@ -1630,7 +1630,7 @@
                 </equal>
                 <equal>
                   <clip pos="1" side="sl" part="lem"/>
-                  <lit v="d�uer"/>
+                  <lit v="déuer"/>
                 </equal>
               </or>
               <equal>
@@ -1793,12 +1793,12 @@
                                               <test>
                                                 <equal>
                                                   <clip pos="1" side="sl" part="lem"/>
-                                                  <lit v="h�r"/>
+                                                  <lit v="hčr"/>
                                                 </equal>
                                               </test>
                                               <let>
                                                 <var n="tipusverb"/>
-                                                <lit-tag v="h�r"/>
+                                                <lit-tag v="hčr"/>
                                               </let>
                                             </when>
                                             <otherwise>
@@ -1871,12 +1871,12 @@
           <test>
             <equal caseless="yes">
               <clip pos="1" side="sl" part="lemh"/>
-              <lit v="comen�ar"/>
+              <lit v="començar"/>
             </equal>
           </test>
           <let>
             <var n="cv_verb"/>
-            <lit-tag v="comen�ar"/>
+            <lit-tag v="començar"/>
           </let>
         </when>
         <when>
@@ -1970,7 +1970,7 @@
     </def-macro>
 
 
-  <!-- macro antiga , canviada per MG 25-04-08, s'ha tret de totes les regles tamb� <let><var n="caseFirstWord"/><lit v="aa"/></let>
+  <!-- macro antiga , canviada per MG 25-04-08, s'ha tret de totes les regles també <let><var n="caseFirstWord"/><lit v="aa"/></let>
 
 
        <def-macro n="firstWord" npar="1">
@@ -4320,7 +4320,7 @@
         </when>
       </choose>
     </def-macro>
-    <!-- revisar si t� sentit GR-->
+    <!-- revisar si té sentit GR-->
     <def-macro n="numeral" npar="2">
       <choose>
         <when>
@@ -4348,7 +4348,7 @@
     <!--*************************************** REGLES DE SN ******************************************** -->
 
 
-    <rule comment="REGLA:  nploc tota: fran�a tota->toda francia">
+    <rule comment="REGLA:  nploc tota: frança tota->toda francia">
       <pattern>
 	<pattern-item n="nploc"/>
 	<pattern-item n="tota"/>
@@ -4420,7 +4420,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: ANTROP�NIM">
+    <rule comment="REGLA: ANTROPŇNIM">
       <pattern>
         <pattern-item n="ant"/>
       </pattern>
@@ -4441,7 +4441,7 @@
       </action>
     </rule>
    
-    <rule comment="REGLA: DET ANTROP�NIM">
+    <rule comment="REGLA: DET ANTROPŇNIM">
       <pattern>
         <pattern-item n="det"/>
         <pattern-item n="ant"/>
@@ -4470,7 +4470,7 @@
       </action>
     </rule>
     
-    <rule comment="REGLA: DET ADJ ANTROP�NIM">
+    <rule comment="REGLA: DET ADJ ANTROPŇNIM">
       <pattern>
         <pattern-item n="det"/>
         <pattern-item n="adj"/>
@@ -4507,7 +4507,7 @@
       </action>
     </rule>
     
-    <rule comment="REGLA: DET ANTROP�NIM ADJ">
+    <rule comment="REGLA: DET ANTROPŇNIM ADJ">
       <pattern>
         <pattern-item n="det"/>
         <pattern-item n="ant"/>
@@ -4544,7 +4544,7 @@
       </action>
     </rule>
     
-    <rule comment="REGLA: 2 ANTROP�NIMS (px. maria l�pez)">
+    <rule comment="REGLA: 2 ANTROPŇNIM (px. maria lópez)">
       <pattern>
         <pattern-item n="ant"/>
         <pattern-item n="ant"/>
@@ -4570,7 +4570,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: DET 2 ANTROP�NIMS (px. la maria l�pez)">
+    <rule comment="REGLA: DET 2 ANTROPŇNIM (px. la maria lópez)">
       <pattern>
         <pattern-item n="det"/>
         <pattern-item n="ant"/>
@@ -4603,7 +4603,7 @@
         </call-macro>
       </action>
     </rule>
-    <rule comment="REGLA: DET ADJ 2 ANTROP�NIMS (px. la pichona maria l�pez)">
+    <rule comment="REGLA: DET ADJ 2 ANTROPŇNIM (px. la pichona maria lópez)">
       <pattern>
         <pattern-item n="det"/>
         <pattern-item n="adjec"/>
@@ -4644,7 +4644,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: DET 2 ANTROP�NIMS ADJ (px. la maria l�pez pichona)">
+    <rule comment="REGLA: DET 2 ANTROPŇNIM ADJ (px. la maria lópez pichona)">
       <pattern>
         <pattern-item n="det"/>
         <pattern-item n="ant"/>
@@ -6138,11 +6138,11 @@
                 </equal>
                <equal caseless="yes">
                   <clip pos="1" side="sl" part="lemh"/>
-                  <lit v="�sser"/>
+                  <lit v="čsser"/>
                 </equal>
                <equal caseless="yes">
                   <clip pos="1" side="sl" part="lemh"/>
-                  <lit v="�ster"/>
+                  <lit v="čster"/>
                 </equal>
                 <equal caseless="yes">
                   <clip pos="1" side="sl" part="lemh"/>
