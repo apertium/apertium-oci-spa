@@ -1,7 +1,7 @@
 AC_PREREQ(2.52)
 
-AC_INIT([apertium-oci-fra], [0.2.0], [francis.tyers@uit.no])
-AM_INIT_AUTOMAKE([apertium-oci-fra], [0.2.0], no-define)
+AC_INIT([apertium-oci-spa], [1.0.9], [francis.tyers@uit.no])
+AM_INIT_AUTOMAKE([apertium-oci-spa], [1.0.9], no-define)
 AC_PROG_LN_S
 AC_PROG_AWK
 
@@ -25,7 +25,4 @@ PKG_CHECK_MODULES(REGTEST, apertium-regtest >= 0.0.1, [],
 
 AP_MKINCLUDE
 
-AC_CONFIG_COMMANDS([mkdir], [$MKDIR_P build bin])
-
 AC_OUTPUT([Makefile])
-

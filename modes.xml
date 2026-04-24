@@ -4,38 +4,38 @@
   <mode name="oci-spa" install="yes" gendebug="yes">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="bin/oci-spa.automorf.bin"/>
+        <file name="oci-spa.automorf.bin"/>
       </program>
       <program name="cg-proc -w" debug-suff="disamb">
-        <file name="bin/oci-spa.rlx.bin"/>
+        <file name="oci-spa.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
-        <file name="bin/oci-spa.prob"/>
+        <file name="oci-spa.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="bin/oci-spa.autobil.bin"/>
+        <file name="oci-spa.autobil.bin"/>
       </program>
       <program name="lrx-proc -m">
-        <file name="bin/oci-spa.autolex.bin"/>
+        <file name="oci-spa.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="src/transfer/chunkers/apertium-oci-spa.oci-spa.t1x"/>
-        <file name="bin/oci-spa.t1x.bin"/>
+        <file name="apertium-oci-spa.oci-spa.t1x"/>
+        <file name="oci-spa.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="src/transfer/interchunks/apertium-oci-spa.oci-spa.t2x"/>
-        <file name="bin/oci-spa.t2x.bin"/>
+        <file name="apertium-oci-spa.oci-spa.t2x"/>
+        <file name="oci-spa.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="src/transfer/postchunks/apertium-oci-spa.oci-spa.t3x"/>
-        <file name="bin/oci-spa.t3x.bin"/>
+        <file name="apertium-oci-spa.oci-spa.t3x"/>
+        <file name="oci-spa.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="bin/oci-spa.autogen.bin"/>
+        <file name="oci-spa.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
-        <file name="bin/oci-spa.autopgen.bin"/>
+        <file name="oci-spa.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -43,11 +43,11 @@
   <mode name="oci-spa-disam" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="bin/oci-spa.automorf.bin"/>
+        <file name="oci-spa.automorf.bin"/>
       </program>
       <program name="cg-conv -a"/>
       <program name="vislcg3 --trace --grammar">
-        <file name="bin/oci-spa.rlx.bin"/>
+        <file name="oci-spa.rlx.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -56,38 +56,38 @@
   <mode name="oci_aran-spa" install="yes" gendebug="yes">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="bin/oci-spa.automorf.bin"/>
+        <file name="oci-spa.automorf.bin"/>
       </program>
       <program name="cg-proc -w" debug-suff="disamb">
-        <file name="bin/oci-spa.rlx.bin"/>
+        <file name="oci-spa.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
-        <file name="bin/oci-spa.prob"/>
+        <file name="oci-spa.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="bin/oci-spa.autobil.bin"/>
+        <file name="oci-spa.autobil.bin"/>
       </program>
       <program name="lrx-proc -m">
-        <file name="bin/oci-spa.autolex.bin"/>
+        <file name="oci-spa.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="src/transfer/chunkers/apertium-oci-spa.oci-spa.t1x"/>
-        <file name="bin/oci-spa.t1x.bin"/>
+        <file name="apertium-oci-spa.oci-spa.t1x"/>
+        <file name="oci-spa.t1x.bin"/>
       </program>
       <program name="apertium-interchunk -t">
-        <file name="src/transfer/interchunks/apertium-oci-spa.oci-spa.t2x"/>
-        <file name="bin/oci-spa.t2x.bin"/>
+        <file name="apertium-oci-spa.oci-spa.t2x"/>
+        <file name="oci-spa.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="src/transfer/postchunks/apertium-oci-spa.oci-spa.t3x"/>
-        <file name="bin/oci-spa.t3x.bin"/>
+        <file name="apertium-oci-spa.oci-spa.t3x"/>
+        <file name="oci-spa.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="bin/oci-spa.autogen.bin"/>
+        <file name="oci-spa.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
-        <file name="bin/oci-spa.autopgen.bin"/>
+        <file name="oci-spa.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -96,38 +96,38 @@
   <mode name="spa-oci" install="yes" gendebug="yes">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="bin/spa-oci.automorf.bin"/>
+        <file name="spa-oci.automorf.bin"/>
       </program>
       <program name="cg-proc -w" debug-suff="disamb">
-        <file name="bin/spa-oci.rlx.bin"/>
+        <file name="spa-oci.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
-        <file name="bin/spa-oci.prob"/>
+        <file name="spa-oci.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="bin/spa-oci.autobil.bin"/>
+        <file name="spa-oci.autobil.bin"/>
       </program>
       <program name="lrx-proc -m">
-        <file name="bin/spa-oci.autolex.bin"/>
+        <file name="spa-oci.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="src/transfer/chunkers/apertium-oci-spa.spa-oci.t1x"/>
-        <file name="bin/spa-oci.t1x.bin"/>
+        <file name="apertium-oci-spa.spa-oci.t1x"/>
+        <file name="spa-oci.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="src/transfer/interchunks/apertium-oci-spa.spa-oci.t2x"/>
-        <file name="bin/spa-oci.t2x.bin"/>
+        <file name="apertium-oci-spa.spa-oci.t2x"/>
+        <file name="spa-oci.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="src/transfer/postchunks/apertium-oci-spa.spa-oci.t3x"/>
-        <file name="bin/spa-oci.t3x.bin"/>
+        <file name="apertium-oci-spa.spa-oci.t3x"/>
+        <file name="spa-oci.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="bin/spa-oci.autogen.bin"/>
+        <file name="spa-oci.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
-        <file name="bin/spa-oci.autopgen.bin"/>
+        <file name="spa-oci.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -135,11 +135,11 @@
   <mode name="spa-oci-disam" install="no">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="bin/spa-oci.automorf.bin"/>
+        <file name="spa-oci.automorf.bin"/>
       </program>
       <program name="cg-conv -a"/>
       <program name="vislcg3 --trace --grammar">
-        <file name="bin/spa-oci.rlx.bin"/>
+        <file name="spa-oci.rlx.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -148,38 +148,38 @@
   <mode name="spa-oci_aran" install="yes" gendebug="yes">
     <pipeline>
       <program name="lt-proc -w">
-        <file name="bin/spa-oci.automorf.bin"/>
+        <file name="spa-oci.automorf.bin"/>
       </program>
       <program name="cg-proc -w" debug-suff="disamb">
-        <file name="bin/spa-oci.rlx.bin"/>
+        <file name="spa-oci.rlx.bin"/>
       </program>
       <program name="apertium-tagger -g $2">
-        <file name="bin/spa-oci.prob"/>
+        <file name="spa-oci.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="bin/spa-oci@aran.autobil.bin"/>
+        <file name="spa-oci@aran.autobil.bin"/>
       </program>
       <program name="lrx-proc -m">
-        <file name="bin/spa-oci@aran.autolex.bin"/>
+        <file name="spa-oci@aran.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="src/transfer/chunkers/apertium-oci-spa.spa-oci.t1x"/>
-        <file name="bin/spa-oci.t1x.bin"/>
+        <file name="apertium-oci-spa.spa-oci.t1x"/>
+        <file name="spa-oci.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="src/transfer/interchunks/apertium-oci-spa.spa-oci.t2x"/>
-        <file name="bin/spa-oci.t2x.bin"/>
+        <file name="apertium-oci-spa.spa-oci.t2x"/>
+        <file name="spa-oci.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="src/transfer/postchunks/apertium-oci-spa.spa-oci.t3x"/>
-        <file name="bin/spa-oci.t3x.bin"/>
+        <file name="apertium-oci-spa.spa-oci.t3x"/>
+        <file name="spa-oci.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
-        <file name="bin/spa-oci@aran.autogen.bin"/>
+        <file name="spa-oci@aran.autogen.bin"/>
       </program>
       <program name="lt-proc -p">
-        <file name="bin/spa-oci@aran.autopgen.bin"/>
+        <file name="spa-oci@aran.autopgen.bin"/>
       </program>
     </pipeline>
   </mode>

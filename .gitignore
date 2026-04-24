@@ -22,5 +22,5 @@
 /config.in
 /config
 /test/*-output.txt
-/bin
-/build
+oci-spa.t1x
+oci@aran-spa.t1x
